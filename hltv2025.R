@@ -122,7 +122,6 @@ p2 <- ggplot(plot_data,
     legend.position   = "none",
     panel.spacing     = unit(1.5, "lines")
   )
-
 print(p2)
 ggsave("radar_facet.png", p2,
        width = 14, height = 9, dpi = 300, bg = "#2B2B2B")          
