@@ -1,0 +1,822 @@
+Date,TargetTeam,Opponent,TargetScore,OpponentScore,Map,Event,MatchURL,Result
+01/02/25,FURIA,Natus Vincere,5,13,Dust2,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/191500/natus-vincere-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+01/02/25,FURIA,Natus Vincere,3,13,Mirage,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/191504/furia-vs-natus-vincere?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+01/08/25,FURIA,MOUZ,11,13,Inferno,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/204114/mouz-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+01/08/25,FURIA,MOUZ,13,10,Mirage,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/204108/furia-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+01/08/25,FURIA,MOUZ,16,19,Train,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/204098/mouz-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+03/02/25,FURIA,Astralis,13,8,Dust2,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/191599/astralis-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+03/02/25,FURIA,Astralis,10,13,Inferno,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/191596/astralis-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+03/02/25,FURIA,Astralis,11,13,Nuke,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/191606/astralis-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+03/11/25,FURIA,Lynn Vision,13,8,Dust2,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212510/lynn-vision-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+03/11/25,FURIA,Lynn Vision,13,2,Overpass,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/226863/lynn-vision-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+04/10/25,FURIA,3DMAX,13,8,Dust2,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/209689/3dmax-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+04/10/25,FURIA,3DMAX,13,6,Nuke,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/209685/furia-vs-3dmax?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+04/11/25,FURIA,G2,16,14,Overpass,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212591/g2-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+04/11/25,FURIA,G2,13,5,Train,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212588/furia-vs-g2?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+04/12/25,FURIA,Imperial,13,5,Dust2,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215020/imperial-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+04/12/25,FURIA,Natus Vincere,13,2,Nuke,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/214997/furia-vs-natus-vincere?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+05/10/25,FURIA,G2,8,13,Dust2,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/209794/g2-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+05/10/25,FURIA,G2,11,13,Train,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/209786/furia-vs-g2?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+05/11/25,FURIA,MOUZ,2,13,Inferno,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212686/furia-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+05/11/25,FURIA,MOUZ,13,11,Overpass,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212690/mouz-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+05/11/25,FURIA,MOUZ,14,16,Train,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212701/furia-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+05/12/25,FURIA,G2,13,6,Inferno,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215087/furia-vs-g2?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+05/12/25,FURIA,G2,13,10,Overpass,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215094/g2-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+06/04/25,FURIA,Betclic,13,6,Dust2,PGL Bucharest 2025,https://www.hltv.org/stats/matches/mapstatsid/197263/betclic-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+06/04/25,FURIA,Betclic,13,7,Mirage,PGL Bucharest 2025,https://www.hltv.org/stats/matches/mapstatsid/197265/betclic-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+06/09/25,FURIA,G2,5,13,Inferno,BLAST Open London 2025 Finals,https://www.hltv.org/stats/matches/mapstatsid/206712/furia-vs-g2?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+06/09/25,FURIA,G2,5,13,Mirage,BLAST Open London 2025 Finals,https://www.hltv.org/stats/matches/mapstatsid/206730/g2-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+06/10/25,FURIA,Inner Circle,13,2,Mirage,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/209883/furia-vs-inner-circle?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+06/10/25,FURIA,Inner Circle,13,2,Overpass,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/209890/inner-circle-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+07/03/25,FURIA,MOUZ,16,13,Inferno,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/194434/furia-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+07/03/25,FURIA,MOUZ,11,13,Nuke,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/194450/furia-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+07/03/25,FURIA,MOUZ,9,13,Train,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/194420/mouz-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+07/04/25,FURIA,Complexity,13,8,Dust2,PGL Bucharest 2025,https://www.hltv.org/stats/matches/mapstatsid/197295/complexity-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+07/04/25,FURIA,Complexity,4,13,Inferno,PGL Bucharest 2025,https://www.hltv.org/stats/matches/mapstatsid/197298/complexity-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+07/04/25,FURIA,Complexity,1,13,Train,PGL Bucharest 2025,https://www.hltv.org/stats/matches/mapstatsid/197297/complexity-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+07/10/25,FURIA,Aurora,13,3,Inferno,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/210036/furia-vs-aurora?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+07/10/25,FURIA,Aurora,9,13,Mirage,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/210048/aurora-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+07/10/25,FURIA,Aurora,16,12,Overpass,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/210059/aurora-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+07/11/25,FURIA,The MongolZ,13,5,Mirage,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212930/furia-vs-the-mongolz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+07/11/25,FURIA,The MongolZ,13,10,Overpass,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212950/the-mongolz-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+08/03/25,FURIA,Liquid,8,13,Anubis,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/194674/liquid-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+08/03/25,FURIA,Liquid,10,13,Dust2,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/194650/liquid-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+08/04/25,FURIA,Virtus.pro,11,13,Anubis,PGL Bucharest 2025,https://www.hltv.org/stats/matches/mapstatsid/197330/furia-vs-virtuspro?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+08/04/25,FURIA,Virtus.pro,8,13,Dust2,PGL Bucharest 2025,https://www.hltv.org/stats/matches/mapstatsid/197337/virtuspro-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+08/11/25,FURIA,Falcons,13,5,Inferno,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/213143/furia-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+08/11/25,FURIA,Falcons,13,11,Mirage,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/213149/furia-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+09/03/25,FURIA,MIBR,13,9,Anubis,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/194863/mibr-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+09/03/25,FURIA,MIBR,13,1,Inferno,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/194907/mibr-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+09/03/25,FURIA,MIBR,17,19,Mirage,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/194881/mibr-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+09/04/25,FURIA,The MongolZ,9,13,Mirage,PGL Bucharest 2025,https://www.hltv.org/stats/matches/mapstatsid/197435/furia-vs-the-mongolz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+09/04/25,FURIA,The MongolZ,11,13,Nuke,PGL Bucharest 2025,https://www.hltv.org/stats/matches/mapstatsid/197437/the-mongolz-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+09/11/25,FURIA,Vitality,13,11,Ancient,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/213281/vitality-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+09/11/25,FURIA,Vitality,13,10,Inferno,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/213286/furia-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+09/11/25,FURIA,Vitality,13,11,Overpass,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/213294/vitality-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+10/03/25,FURIA,Falcons,9,13,Dust2,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/195061/furia-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+10/03/25,FURIA,Falcons,14,16,Mirage,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/195047/falcons-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+10/03/25,FURIA,Falcons,16,13,Train,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/195034/falcons-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+10/05/25,FURIA,The MongolZ,13,7,Anubis,PGL Astana 2025,https://www.hltv.org/stats/matches/mapstatsid/199330/furia-vs-the-mongolz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+10/05/25,FURIA,The MongolZ,9,13,Inferno,PGL Astana 2025,https://www.hltv.org/stats/matches/mapstatsid/199336/furia-vs-the-mongolz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+10/05/25,FURIA,The MongolZ,4,13,Mirage,PGL Astana 2025,https://www.hltv.org/stats/matches/mapstatsid/199327/furia-vs-the-mongolz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+10/10/25,FURIA,Vitality,7,13,Inferno,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/210508/furia-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+10/10/25,FURIA,Vitality,7,13,Nuke,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/210516/vitality-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+10/10/25,FURIA,Vitality,13,9,Overpass,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/210497/vitality-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+11/05/25,FURIA,GamerLegion,13,9,Anubis,PGL Astana 2025,https://www.hltv.org/stats/matches/mapstatsid/199407/furia-vs-gamerlegion?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+11/05/25,FURIA,GamerLegion,7,13,Mirage,PGL Astana 2025,https://www.hltv.org/stats/matches/mapstatsid/199412/furia-vs-gamerlegion?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+11/05/25,FURIA,GamerLegion,13,9,Nuke,PGL Astana 2025,https://www.hltv.org/stats/matches/mapstatsid/199415/gamerlegion-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+12/05/25,FURIA,MIBR,11,13,Anubis,PGL Astana 2025,https://www.hltv.org/stats/matches/mapstatsid/199475/furia-vs-mibr?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+12/05/25,FURIA,MIBR,13,8,Inferno,PGL Astana 2025,https://www.hltv.org/stats/matches/mapstatsid/199477/furia-vs-mibr?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+12/05/25,FURIA,MIBR,13,4,Train,PGL Astana 2025,https://www.hltv.org/stats/matches/mapstatsid/199472/furia-vs-mibr?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+12/06/25,FURIA,Aurora,13,7,Dust2,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/201335/aurora-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+12/06/25,FURIA,The MongolZ,13,11,Inferno,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/201327/the-mongolz-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+12/11/25,FURIA,paiN,13,11,Mirage,BLAST Rivals 2025 Season 2,https://www.hltv.org/stats/matches/mapstatsid/213538/furia-vs-pain?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+12/11/25,FURIA,paiN,7,13,Nuke,BLAST Rivals 2025 Season 2,https://www.hltv.org/stats/matches/mapstatsid/213526/furia-vs-pain?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+12/11/25,FURIA,paiN,13,6,Overpass,BLAST Rivals 2025 Season 2,https://www.hltv.org/stats/matches/mapstatsid/213532/pain-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+12/12/25,FURIA,Natus Vincere,16,13,Inferno,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215459/natus-vincere-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+12/12/25,FURIA,Natus Vincere,5,13,Mirage,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215455/furia-vs-natus-vincere?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+12/12/25,FURIA,Natus Vincere,3,13,Train,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215462/furia-vs-natus-vincere?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+13/05/25,FURIA,ODDIK,13,7,Anubis,PGL Astana 2025,https://www.hltv.org/stats/matches/mapstatsid/199552/oddik-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+13/05/25,FURIA,ODDIK,13,6,Train,PGL Astana 2025,https://www.hltv.org/stats/matches/mapstatsid/199554/oddik-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+13/06/25,FURIA,Virtus.pro,13,3,Mirage,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/201381/furia-vs-virtuspro?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+13/06/25,FURIA,Virtus.pro,13,5,Train,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/201388/virtuspro-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+13/09/25,FURIA,Liquid,9,13,Dust2,FISSURE Playground 2,https://www.hltv.org/stats/matches/mapstatsid/207609/liquid-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+13/09/25,FURIA,Liquid,13,11,Inferno,FISSURE Playground 2,https://www.hltv.org/stats/matches/mapstatsid/207623/liquid-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+13/09/25,FURIA,Liquid,13,7,Train,FISSURE Playground 2,https://www.hltv.org/stats/matches/mapstatsid/207636/liquid-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+13/11/25,FURIA,Vitality,13,5,Inferno,BLAST Rivals 2025 Season 2,https://www.hltv.org/stats/matches/mapstatsid/213642/vitality-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+13/11/25,FURIA,Vitality,13,11,Nuke,BLAST Rivals 2025 Season 2,https://www.hltv.org/stats/matches/mapstatsid/213632/furia-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+13/11/25,FURIA,Vitality,13,16,Overpass,BLAST Rivals 2025 Season 2,https://www.hltv.org/stats/matches/mapstatsid/213637/vitality-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+14/09/25,FURIA,G2,13,7,Inferno,FISSURE Playground 2,https://www.hltv.org/stats/matches/mapstatsid/207769/furia-vs-g2?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+14/09/25,FURIA,G2,16,14,Overpass,FISSURE Playground 2,https://www.hltv.org/stats/matches/mapstatsid/207784/g2-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+15/09/25,FURIA,Aurora,11,13,Dust2,FISSURE Playground 2,https://www.hltv.org/stats/matches/mapstatsid/207890/aurora-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+15/09/25,FURIA,Aurora,5,13,Inferno,FISSURE Playground 2,https://www.hltv.org/stats/matches/mapstatsid/207886/aurora-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+15/11/25,FURIA,paiN,13,3,Nuke,BLAST Rivals 2025 Season 2,https://www.hltv.org/stats/matches/mapstatsid/213775/furia-vs-pain?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+15/11/25,FURIA,paiN,16,12,Overpass,BLAST Rivals 2025 Season 2,https://www.hltv.org/stats/matches/mapstatsid/213777/pain-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+16/05/25,FURIA,MIBR,16,13,Nuke,PGL Astana 2025,https://www.hltv.org/stats/matches/mapstatsid/199823/furia-vs-mibr?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+16/05/25,FURIA,MIBR,13,2,Train,PGL Astana 2025,https://www.hltv.org/stats/matches/mapstatsid/199827/mibr-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+16/09/25,FURIA,paiN,13,10,Dust2,FISSURE Playground 2,https://www.hltv.org/stats/matches/mapstatsid/207958/pain-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+16/09/25,FURIA,paiN,13,4,Inferno,FISSURE Playground 2,https://www.hltv.org/stats/matches/mapstatsid/207951/furia-vs-pain?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+16/11/25,FURIA,Falcons,3,13,Inferno,BLAST Rivals 2025 Season 2,https://www.hltv.org/stats/matches/mapstatsid/213844/falcons-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+16/11/25,FURIA,Falcons,19,16,Mirage,BLAST Rivals 2025 Season 2,https://www.hltv.org/stats/matches/mapstatsid/213857/furia-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+16/11/25,FURIA,Falcons,13,9,Nuke,BLAST Rivals 2025 Season 2,https://www.hltv.org/stats/matches/mapstatsid/213847/furia-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+16/11/25,FURIA,Falcons,19,15,Train,BLAST Rivals 2025 Season 2,https://www.hltv.org/stats/matches/mapstatsid/213852/falcons-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+17/05/25,FURIA,Spirit,7,13,Mirage,PGL Astana 2025,https://www.hltv.org/stats/matches/mapstatsid/199902/spirit-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+17/05/25,FURIA,Spirit,9,13,Nuke,PGL Astana 2025,https://www.hltv.org/stats/matches/mapstatsid/199896/furia-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+17/05/25,FURIA,Spirit,13,7,Train,PGL Astana 2025,https://www.hltv.org/stats/matches/mapstatsid/199891/spirit-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+18/05/25,FURIA,Aurora,13,10,Anubis,PGL Astana 2025,https://www.hltv.org/stats/matches/mapstatsid/199926/aurora-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+18/05/25,FURIA,Aurora,6,13,Dust2,PGL Astana 2025,https://www.hltv.org/stats/matches/mapstatsid/199932/aurora-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+18/05/25,FURIA,Aurora,6,13,Inferno,PGL Astana 2025,https://www.hltv.org/stats/matches/mapstatsid/199929/aurora-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+19/09/25,FURIA,Astralis,19,15,Nuke,FISSURE Playground 2,https://www.hltv.org/stats/matches/mapstatsid/208220/furia-vs-astralis?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+19/09/25,FURIA,Astralis,13,9,Train,FISSURE Playground 2,https://www.hltv.org/stats/matches/mapstatsid/208206/astralis-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+20/03/25,FURIA,Natus Vincere,12,16,Anubis,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/195750/furia-vs-natus-vincere?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+20/03/25,FURIA,Natus Vincere,8,13,Mirage,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/195752/furia-vs-natus-vincere?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+20/05/25,FURIA,The MongolZ,7,13,Anubis,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200037/furia-vs-the-mongolz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+20/05/25,FURIA,The MongolZ,7,13,Mirage,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200039/furia-vs-the-mongolz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+20/06/25,FURIA,paiN,8,13,Anubis,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/201856/furia-vs-pain?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+20/06/25,FURIA,paiN,12,16,Inferno,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/201857/furia-vs-pain?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+20/06/25,FURIA,paiN,13,6,Nuke,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/201855/furia-vs-pain?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+20/09/25,FURIA,Falcons,13,11,Nuke,FISSURE Playground 2,https://www.hltv.org/stats/matches/mapstatsid/208316/furia-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+20/09/25,FURIA,Falcons,16,12,Train,FISSURE Playground 2,https://www.hltv.org/stats/matches/mapstatsid/208306/falcons-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+21/05/25,FURIA,Lynn Vision,13,6,Anubis,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200114/furia-vs-lynn-vision?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+21/05/25,FURIA,Lynn Vision,13,10,Dust2,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200112/lynn-vision-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+21/05/25,FURIA,GamerLegion,13,6,Mirage,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200165/furia-vs-gamerlegion?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+21/05/25,FURIA,GamerLegion,8,13,Nuke,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200170/furia-vs-gamerlegion?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+21/05/25,FURIA,GamerLegion,9,13,Train,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200162/gamerlegion-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+21/09/25,FURIA,The MongolZ,13,5,Dust2,FISSURE Playground 2,https://www.hltv.org/stats/matches/mapstatsid/208426/the-mongolz-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+21/09/25,FURIA,The MongolZ,11,13,Inferno,FISSURE Playground 2,https://www.hltv.org/stats/matches/mapstatsid/208406/the-mongolz-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+21/09/25,FURIA,The MongolZ,16,13,Mirage,FISSURE Playground 2,https://www.hltv.org/stats/matches/mapstatsid/208397/furia-vs-the-mongolz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+21/09/25,FURIA,The MongolZ,16,12,Nuke,FISSURE Playground 2,https://www.hltv.org/stats/matches/mapstatsid/208412/furia-vs-the-mongolz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+21/09/25,FURIA,The MongolZ,9,13,Overpass,FISSURE Playground 2,https://www.hltv.org/stats/matches/mapstatsid/208425/the-mongolz-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+22/03/25,FURIA,M80,13,7,Dust2,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/195838/m80-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+22/03/25,FURIA,M80,17,19,Inferno,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/195860/m80-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+22/03/25,FURIA,M80,10,13,Train,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/195842/m80-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+26/07/25,FURIA,G2,11,13,Dust2,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/203715/g2-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+26/07/25,FURIA,G2,8,13,Inferno,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/203720/furia-vs-g2?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+27/07/25,FURIA,Astralis,13,4,Dust2,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/203824/astralis-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+27/07/25,FURIA,Astralis,13,3,Inferno,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/203821/astralis-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+28/07/25,FURIA,Falcons,13,7,Dust2,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/203879/falcons-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+28/07/25,FURIA,Falcons,13,11,Mirage,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/203877/furia-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+28/07/25,FURIA,Falcons,7,13,Train,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/203873/falcons-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+29/07/25,FURIA,G2,13,6,Dust2,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/203953/g2-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+29/07/25,FURIA,G2,16,14,Inferno,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/203958/g2-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+01/02/25,Falcons,Eternal Fire,7,13,Inferno,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/191473/falcons-vs-eternal-fire?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+01/02/25,Falcons,Eternal Fire,5,13,Train,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/191479/eternal-fire-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+01/05/25,Falcons,Spirit,13,6,Ancient,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198687/falcons-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+01/05/25,Falcons,Spirit,16,12,Dust2,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198689/falcons-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+01/05/25,Falcons,Spirit,4,13,Mirage,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198686/spirit-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+02/02/25,Falcons,G2,9,13,Ancient,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/191544/g2-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+02/02/25,Falcons,G2,13,7,Dust2,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/191549/falcons-vs-g2?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+02/02/25,Falcons,G2,11,13,Mirage,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/191554/g2-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+03/05/25,Falcons,MOUZ,13,6,Dust2,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198800/mouz-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+03/05/25,Falcons,MOUZ,16,14,Nuke,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198790/falcons-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+03/11/25,Falcons,TYLOO,13,3,Ancient,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212512/tyloo-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+03/11/25,Falcons,TYLOO,13,8,Inferno,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212509/tyloo-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+04/05/25,Falcons,Vitality,6,13,Dust2,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198878/vitality-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+04/05/25,Falcons,Vitality,13,9,Inferno,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198873/falcons-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+04/05/25,Falcons,Vitality,16,14,Mirage,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198897/vitality-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+04/05/25,Falcons,Vitality,8,13,Nuke,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198902/falcons-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+04/05/25,Falcons,Vitality,6,13,Train,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198887/falcons-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+04/10/25,Falcons,Astralis,13,8,Inferno,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/209648/falcons-vs-astralis?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+04/10/25,Falcons,Astralis,13,6,Mirage,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/209651/astralis-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+04/11/25,Falcons,Spirit,16,13,Ancient,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212620/spirit-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+04/11/25,Falcons,Spirit,13,6,Dust2,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212617/falcons-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+04/12/25,Falcons,B8,10,13,Ancient,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/214998/falcons-vs-b8?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+04/12/25,Falcons,Passion UA,13,5,Nuke,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215009/falcons-vs-passion-ua?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+05/10/25,Falcons,Natus Vincere,16,14,Ancient,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/209740/natus-vincere-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+05/10/25,Falcons,Natus Vincere,13,2,Nuke,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/209735/falcons-vs-natus-vincere?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+05/11/25,Falcons,Astralis,13,7,Mirage,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212711/astralis-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+05/11/25,Falcons,Astralis,13,6,Nuke,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212705/falcons-vs-astralis?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+05/12/25,Falcons,Imperial,13,1,Mirage,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215060/imperial-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+06/04/25,Falcons,Complexity,5,13,Dust2,PGL Bucharest 2025,https://www.hltv.org/stats/matches/mapstatsid/197242/complexity-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+06/04/25,Falcons,Complexity,6,13,Train,PGL Bucharest 2025,https://www.hltv.org/stats/matches/mapstatsid/197232/falcons-vs-complexity?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+06/10/25,Falcons,MOUZ,13,9,Ancient,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/209950/mouz-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+06/10/25,Falcons,MOUZ,3,13,Inferno,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/209964/falcons-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+06/10/25,Falcons,MOUZ,13,7,Nuke,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/209973/mouz-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+06/12/25,Falcons,MOUZ,6,13,Inferno,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215170/falcons-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+06/12/25,Falcons,MOUZ,13,11,Mirage,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215161/mouz-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+06/12/25,Falcons,MOUZ,10,13,Nuke,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215176/mouz-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+07/03/25,Falcons,Liquid,16,13,Ancient,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/194491/liquid-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+07/03/25,Falcons,Liquid,9,13,Dust2,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/194480/liquid-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+07/03/25,Falcons,Liquid,16,14,Inferno,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/194465/falcons-vs-liquid?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+07/04/25,Falcons,GamerLegion,2,13,Inferno,PGL Bucharest 2025,https://www.hltv.org/stats/matches/mapstatsid/197279/falcons-vs-gamerlegion?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+07/04/25,Falcons,GamerLegion,1,13,Mirage,PGL Bucharest 2025,https://www.hltv.org/stats/matches/mapstatsid/197280/falcons-vs-gamerlegion?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+07/12/25,Falcons,G2,9,13,Ancient,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215256/g2-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+07/12/25,Falcons,G2,13,10,Dust2,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215260/g2-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+07/12/25,Falcons,G2,13,4,Inferno,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215259/falcons-vs-g2?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+08/03/25,Falcons,MOUZ,9,13,Nuke,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/194627/falcons-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+08/03/25,Falcons,MOUZ,7,13,Train,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/194606/mouz-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+08/04/25,Falcons,paiN,13,9,Inferno,PGL Bucharest 2025,https://www.hltv.org/stats/matches/mapstatsid/197363/falcons-vs-pain?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+08/04/25,Falcons,paiN,6,13,Nuke,PGL Bucharest 2025,https://www.hltv.org/stats/matches/mapstatsid/197354/falcons-vs-pain?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+08/04/25,Falcons,paiN,13,8,Train,PGL Bucharest 2025,https://www.hltv.org/stats/matches/mapstatsid/197360/pain-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+08/11/25,Falcons,FURIA,5,13,Inferno,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/213143/furia-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+08/11/25,Falcons,FURIA,11,13,Mirage,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/213149/furia-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+09/03/25,Falcons,3DMAX,13,7,Ancient,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/194787/3dmax-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+09/03/25,Falcons,3DMAX,2,13,Dust2,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/194797/falcons-vs-3dmax?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+09/03/25,Falcons,3DMAX,11,13,Inferno,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/194776/falcons-vs-3dmax?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+09/04/25,Falcons,Rare Atom,13,6,Inferno,PGL Bucharest 2025,https://www.hltv.org/stats/matches/mapstatsid/197425/falcons-vs-rare-atom?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+09/04/25,Falcons,Rare Atom,13,2,Train,PGL Bucharest 2025,https://www.hltv.org/stats/matches/mapstatsid/197428/rare-atom-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+09/11/25,Falcons,MOUZ,13,5,Ancient,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/213275/mouz-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+09/11/25,Falcons,MOUZ,11,13,Inferno,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/213276/falcons-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+09/11/25,Falcons,MOUZ,13,6,Mirage,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/213277/mouz-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+10/03/25,Falcons,FURIA,13,9,Dust2,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/195061/furia-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+10/03/25,Falcons,FURIA,16,14,Mirage,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/195047/falcons-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+10/03/25,Falcons,FURIA,13,16,Train,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/195034/falcons-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+10/04/25,Falcons,The MongolZ,16,14,Ancient,PGL Bucharest 2025,https://www.hltv.org/stats/matches/mapstatsid/197489/falcons-vs-the-mongolz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+10/04/25,Falcons,The MongolZ,13,6,Dust2,PGL Bucharest 2025,https://www.hltv.org/stats/matches/mapstatsid/197487/falcons-vs-the-mongolz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+10/04/25,Falcons,The MongolZ,9,13,Mirage,PGL Bucharest 2025,https://www.hltv.org/stats/matches/mapstatsid/197485/falcons-vs-the-mongolz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+10/10/25,Falcons,3DMAX,13,7,Ancient,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/210431/3dmax-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+10/10/25,Falcons,3DMAX,9,13,Inferno,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/210425/falcons-vs-3dmax?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+10/10/25,Falcons,3DMAX,16,13,Nuke,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/210434/3dmax-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+11/03/25,Falcons,Eternal Fire,9,13,Dust2,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/195135/falcons-vs-eternal-fire?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+11/03/25,Falcons,Eternal Fire,8,13,Inferno,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/195122/falcons-vs-eternal-fire?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+11/03/25,Falcons,Eternal Fire,16,13,Mirage,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/195129/eternal-fire-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+11/04/25,Falcons,GamerLegion,13,7,Ancient,PGL Bucharest 2025,https://www.hltv.org/stats/matches/mapstatsid/197511/gamerlegion-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+11/04/25,Falcons,GamerLegion,13,7,Inferno,PGL Bucharest 2025,https://www.hltv.org/stats/matches/mapstatsid/197508/falcons-vs-gamerlegion?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+11/04/25,Falcons,GamerLegion,7,13,Train,PGL Bucharest 2025,https://www.hltv.org/stats/matches/mapstatsid/197506/gamerlegion-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+11/10/25,Falcons,MOUZ,13,7,Ancient,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/210559/mouz-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+11/10/25,Falcons,MOUZ,16,13,Inferno,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/210550/mouz-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+11/12/25,Falcons,Spirit,12,16,Dust2,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215408/falcons-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+11/12/25,Falcons,Spirit,4,13,Nuke,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215404/spirit-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+12/04/25,Falcons,FaZe,14,16,Ancient,PGL Bucharest 2025,https://www.hltv.org/stats/matches/mapstatsid/197583/faze-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+12/04/25,Falcons,FaZe,13,10,Mirage,PGL Bucharest 2025,https://www.hltv.org/stats/matches/mapstatsid/197587/falcons-vs-faze?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+12/04/25,Falcons,FaZe,13,4,Nuke,PGL Bucharest 2025,https://www.hltv.org/stats/matches/mapstatsid/197578/falcons-vs-faze?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+12/09/25,Falcons,Virtus.pro,13,2,Ancient,FISSURE Playground 2,https://www.hltv.org/stats/matches/mapstatsid/207439/virtuspro-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+12/09/25,Falcons,Virtus.pro,13,1,Mirage,FISSURE Playground 2,https://www.hltv.org/stats/matches/mapstatsid/207433/falcons-vs-virtuspro?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+12/10/25,Falcons,Vitality,5,13,Dust2,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/210644/falcons-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+12/10/25,Falcons,Vitality,10,13,Inferno,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/210632/vitality-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+12/10/25,Falcons,Vitality,9,13,Train,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/210636/vitality-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+12/11/25,Falcons,Spirit,16,13,Dust2,BLAST Rivals 2025 Season 2,https://www.hltv.org/stats/matches/mapstatsid/213523/falcons-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+12/11/25,Falcons,Spirit,13,8,Nuke,BLAST Rivals 2025 Season 2,https://www.hltv.org/stats/matches/mapstatsid/213525/spirit-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+13/04/25,Falcons,G2,13,8,Ancient,PGL Bucharest 2025,https://www.hltv.org/stats/matches/mapstatsid/197643/falcons-vs-g2?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+13/04/25,Falcons,G2,13,5,Mirage,PGL Bucharest 2025,https://www.hltv.org/stats/matches/mapstatsid/197638/falcons-vs-g2?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+13/04/25,Falcons,G2,13,7,Nuke,PGL Bucharest 2025,https://www.hltv.org/stats/matches/mapstatsid/197642/g2-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+13/11/25,Falcons,Passion UA,13,10,Mirage,BLAST Rivals 2025 Season 2,https://www.hltv.org/stats/matches/mapstatsid/213621/passion-ua-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+13/11/25,Falcons,Passion UA,13,11,Train,BLAST Rivals 2025 Season 2,https://www.hltv.org/stats/matches/mapstatsid/213620/falcons-vs-passion-ua?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+14/02/25,Falcons,FlyQuest,13,7,Dust2,PGL Cluj-Napoca 2025,https://www.hltv.org/stats/matches/mapstatsid/192650/flyquest-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+14/02/25,Falcons,FlyQuest,13,9,Inferno,PGL Cluj-Napoca 2025,https://www.hltv.org/stats/matches/mapstatsid/192647/flyquest-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+14/09/25,Falcons,Legacy,19,16,Ancient,FISSURE Playground 2,https://www.hltv.org/stats/matches/mapstatsid/207716/legacy-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+14/09/25,Falcons,Legacy,13,4,Inferno,FISSURE Playground 2,https://www.hltv.org/stats/matches/mapstatsid/207699/falcons-vs-legacy?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+15/02/25,Falcons,paiN,16,12,Dust2,PGL Cluj-Napoca 2025,https://www.hltv.org/stats/matches/mapstatsid/192760/pain-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+15/02/25,Falcons,paiN,8,13,Mirage,PGL Cluj-Napoca 2025,https://www.hltv.org/stats/matches/mapstatsid/192751/falcons-vs-pain?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+15/02/25,Falcons,paiN,11,13,Nuke,PGL Cluj-Napoca 2025,https://www.hltv.org/stats/matches/mapstatsid/192768/falcons-vs-pain?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+15/09/25,Falcons,FaZe,13,6,Dust2,FISSURE Playground 2,https://www.hltv.org/stats/matches/mapstatsid/207869/falcons-vs-faze?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+15/09/25,Falcons,FaZe,13,11,Nuke,FISSURE Playground 2,https://www.hltv.org/stats/matches/mapstatsid/207859/faze-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+15/11/25,Falcons,Vitality,16,13,Inferno,BLAST Rivals 2025 Season 2,https://www.hltv.org/stats/matches/mapstatsid/213779/falcons-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+15/11/25,Falcons,Vitality,13,7,Nuke,BLAST Rivals 2025 Season 2,https://www.hltv.org/stats/matches/mapstatsid/213781/vitality-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+16/02/25,Falcons,Astralis,6,13,Ancient,PGL Cluj-Napoca 2025,https://www.hltv.org/stats/matches/mapstatsid/192806/falcons-vs-astralis?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+16/02/25,Falcons,Astralis,13,7,Dust2,PGL Cluj-Napoca 2025,https://www.hltv.org/stats/matches/mapstatsid/192808/astralis-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+16/02/25,Falcons,Astralis,13,6,Nuke,PGL Cluj-Napoca 2025,https://www.hltv.org/stats/matches/mapstatsid/192813/falcons-vs-astralis?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+16/11/25,Falcons,FURIA,13,3,Inferno,BLAST Rivals 2025 Season 2,https://www.hltv.org/stats/matches/mapstatsid/213844/falcons-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+16/11/25,Falcons,FURIA,16,19,Mirage,BLAST Rivals 2025 Season 2,https://www.hltv.org/stats/matches/mapstatsid/213857/furia-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+16/11/25,Falcons,FURIA,9,13,Nuke,BLAST Rivals 2025 Season 2,https://www.hltv.org/stats/matches/mapstatsid/213847/furia-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+16/11/25,Falcons,FURIA,15,19,Train,BLAST Rivals 2025 Season 2,https://www.hltv.org/stats/matches/mapstatsid/213852/falcons-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+17/02/25,Falcons,MOUZ,13,8,Ancient,PGL Cluj-Napoca 2025,https://www.hltv.org/stats/matches/mapstatsid/192855/mouz-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+17/02/25,Falcons,MOUZ,8,13,Dust2,PGL Cluj-Napoca 2025,https://www.hltv.org/stats/matches/mapstatsid/192847/mouz-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+17/02/25,Falcons,MOUZ,13,10,Mirage,PGL Cluj-Napoca 2025,https://www.hltv.org/stats/matches/mapstatsid/192850/falcons-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+19/03/25,Falcons,MOUZ,10,13,Ancient,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/195645/falcons-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+19/03/25,Falcons,MOUZ,11,13,Train,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/195638/mouz-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+19/05/25,Falcons,NRG,13,5,Nuke,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200035/nrg-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+19/05/25,Falcons,NRG,13,6,Train,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200033/falcons-vs-nrg?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+19/09/25,Falcons,paiN,13,6,Ancient,FISSURE Playground 2,https://www.hltv.org/stats/matches/mapstatsid/208249/pain-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+19/09/25,Falcons,paiN,13,4,Inferno,FISSURE Playground 2,https://www.hltv.org/stats/matches/mapstatsid/208243/falcons-vs-pain?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+20/05/25,Falcons,HEROIC,13,9,Ancient,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200106/falcons-vs-heroic?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+20/05/25,Falcons,HEROIC,13,3,Dust2,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200111/heroic-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+20/05/25,Falcons,HEROIC,13,16,Nuke,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200108/heroic-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+20/09/25,Falcons,FURIA,11,13,Nuke,FISSURE Playground 2,https://www.hltv.org/stats/matches/mapstatsid/208316/furia-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+20/09/25,Falcons,FURIA,12,16,Train,FISSURE Playground 2,https://www.hltv.org/stats/matches/mapstatsid/208306/falcons-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+21/02/25,Falcons,Eternal Fire,6,13,Dust2,PGL Cluj-Napoca 2025,https://www.hltv.org/stats/matches/mapstatsid/193142/eternal-fire-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+21/02/25,Falcons,Eternal Fire,13,8,Nuke,PGL Cluj-Napoca 2025,https://www.hltv.org/stats/matches/mapstatsid/193158/falcons-vs-eternal-fire?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+21/02/25,Falcons,Eternal Fire,13,11,Train,PGL Cluj-Napoca 2025,https://www.hltv.org/stats/matches/mapstatsid/193140/falcons-vs-eternal-fire?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+21/03/25,Falcons,The Huns,13,6,Ancient,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/195787/the-huns-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+21/03/25,Falcons,The Huns,16,13,Inferno,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/195785/falcons-vs-the-huns?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+21/04/25,Falcons,SAW,13,9,Dust2,IEM Melbourne 2025,https://www.hltv.org/stats/matches/mapstatsid/198057/saw-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+21/04/25,Falcons,SAW,13,8,Nuke,IEM Melbourne 2025,https://www.hltv.org/stats/matches/mapstatsid/198053/falcons-vs-saw?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+21/05/25,Falcons,MOUZ,4,13,Dust2,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200173/mouz-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+21/05/25,Falcons,MOUZ,12,16,Mirage,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200175/falcons-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+21/08/25,Falcons,G2,13,9,Ancient,Esports World Cup 2025,https://www.hltv.org/stats/matches/mapstatsid/205695/g2-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+21/08/25,Falcons,G2,13,7,Train,Esports World Cup 2025,https://www.hltv.org/stats/matches/mapstatsid/205702/g2-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+22/02/25,Falcons,FaZe,13,6,Ancient,PGL Cluj-Napoca 2025,https://www.hltv.org/stats/matches/mapstatsid/193259/falcons-vs-faze?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+22/02/25,Falcons,FaZe,13,11,Dust2,PGL Cluj-Napoca 2025,https://www.hltv.org/stats/matches/mapstatsid/193255/faze-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+22/04/25,Falcons,Natus Vincere,13,4,Dust2,IEM Melbourne 2025,https://www.hltv.org/stats/matches/mapstatsid/198114/falcons-vs-natus-vincere?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+22/04/25,Falcons,Natus Vincere,9,13,Inferno,IEM Melbourne 2025,https://www.hltv.org/stats/matches/mapstatsid/198104/falcons-vs-natus-vincere?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+22/04/25,Falcons,Natus Vincere,13,11,Mirage,IEM Melbourne 2025,https://www.hltv.org/stats/matches/mapstatsid/198108/falcons-vs-natus-vincere?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+22/08/25,Falcons,MOUZ,13,9,Ancient,Esports World Cup 2025,https://www.hltv.org/stats/matches/mapstatsid/205782/mouz-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+22/08/25,Falcons,MOUZ,8,13,Inferno,Esports World Cup 2025,https://www.hltv.org/stats/matches/mapstatsid/205785/falcons-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+22/08/25,Falcons,MOUZ,13,10,Nuke,Esports World Cup 2025,https://www.hltv.org/stats/matches/mapstatsid/205789/falcons-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+23/02/25,Falcons,MOUZ,9,13,Ancient,PGL Cluj-Napoca 2025,https://www.hltv.org/stats/matches/mapstatsid/193350/falcons-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+23/02/25,Falcons,MOUZ,6,13,Dust2,PGL Cluj-Napoca 2025,https://www.hltv.org/stats/matches/mapstatsid/193336/mouz-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+23/02/25,Falcons,MOUZ,13,4,Mirage,PGL Cluj-Napoca 2025,https://www.hltv.org/stats/matches/mapstatsid/193340/falcons-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+23/02/25,Falcons,MOUZ,11,13,Nuke,PGL Cluj-Napoca 2025,https://www.hltv.org/stats/matches/mapstatsid/193345/mouz-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+23/03/25,Falcons,Virtus.pro,16,19,Ancient,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/195917/falcons-vs-virtuspro?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+23/03/25,Falcons,Virtus.pro,20,22,Inferno,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/195925/virtuspro-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+23/03/25,Falcons,Virtus.pro,13,11,Mirage,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/195913/virtuspro-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+23/04/25,Falcons,Vitality,8,13,Inferno,IEM Melbourne 2025,https://www.hltv.org/stats/matches/mapstatsid/198158/falcons-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+23/04/25,Falcons,Vitality,13,16,Mirage,IEM Melbourne 2025,https://www.hltv.org/stats/matches/mapstatsid/198154/vitality-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+23/05/25,Falcons,GamerLegion,13,8,Ancient,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200286/falcons-vs-gamerlegion?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+23/05/25,Falcons,GamerLegion,13,8,Inferno,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200293/falcons-vs-gamerlegion?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+23/05/25,Falcons,GamerLegion,9,13,Nuke,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200290/gamerlegion-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+23/08/25,Falcons,Aurora,6,13,Inferno,Esports World Cup 2025,https://www.hltv.org/stats/matches/mapstatsid/205834/falcons-vs-aurora?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+23/08/25,Falcons,Aurora,11,13,Train,Esports World Cup 2025,https://www.hltv.org/stats/matches/mapstatsid/205836/aurora-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+24/05/25,Falcons,Vitality,7,13,Dust2,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200337/vitality-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+24/05/25,Falcons,Vitality,11,13,Inferno,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200340/vitality-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+24/05/25,Falcons,Vitality,13,6,Train,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200338/falcons-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+24/08/25,Falcons,Vitality,9,13,Inferno,Esports World Cup 2025,https://www.hltv.org/stats/matches/mapstatsid/205847/vitality-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+24/08/25,Falcons,Vitality,13,3,Nuke,Esports World Cup 2025,https://www.hltv.org/stats/matches/mapstatsid/205853/vitality-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+24/08/25,Falcons,Vitality,13,3,Train,Esports World Cup 2025,https://www.hltv.org/stats/matches/mapstatsid/205850/vitality-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+25/04/25,Falcons,GamerLegion,13,4,Nuke,IEM Melbourne 2025,https://www.hltv.org/stats/matches/mapstatsid/198219/gamerlegion-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+25/04/25,Falcons,GamerLegion,13,3,Train,IEM Melbourne 2025,https://www.hltv.org/stats/matches/mapstatsid/198218/falcons-vs-gamerlegion?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+26/04/25,Falcons,MOUZ,13,3,Dust2,IEM Melbourne 2025,https://www.hltv.org/stats/matches/mapstatsid/198260/mouz-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+26/04/25,Falcons,MOUZ,13,6,Nuke,IEM Melbourne 2025,https://www.hltv.org/stats/matches/mapstatsid/198261/falcons-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+26/07/25,Falcons,GamerLegion,13,6,Mirage,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/203719/gamerlegion-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+26/07/25,Falcons,GamerLegion,13,11,Nuke,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/203716/falcons-vs-gamerlegion?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+27/04/25,Falcons,Vitality,16,12,Dust2,IEM Melbourne 2025,https://www.hltv.org/stats/matches/mapstatsid/198368/vitality-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+27/04/25,Falcons,Vitality,2,13,Inferno,IEM Melbourne 2025,https://www.hltv.org/stats/matches/mapstatsid/198360/falcons-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+27/04/25,Falcons,Vitality,13,10,Mirage,IEM Melbourne 2025,https://www.hltv.org/stats/matches/mapstatsid/198388/vitality-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+27/04/25,Falcons,Vitality,20,22,Nuke,IEM Melbourne 2025,https://www.hltv.org/stats/matches/mapstatsid/198394/falcons-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+27/04/25,Falcons,Vitality,9,13,Train,IEM Melbourne 2025,https://www.hltv.org/stats/matches/mapstatsid/198378/falcons-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+27/07/25,Falcons,The MongolZ,9,13,Dust2,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/203800/the-mongolz-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+27/07/25,Falcons,The MongolZ,9,13,Mirage,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/203803/falcons-vs-the-mongolz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+28/07/25,Falcons,FURIA,7,13,Dust2,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/203879/falcons-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+28/07/25,Falcons,FURIA,11,13,Mirage,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/203877/furia-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+28/07/25,Falcons,FURIA,13,7,Train,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/203873/falcons-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+30/04/25,Falcons,FaZe,13,10,Ancient,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198611/falcons-vs-faze?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+30/04/25,Falcons,FaZe,13,6,Dust2,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198605/faze-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+01/02/25,MOUZ,GamerLegion,9,13,Inferno,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/191497/mouz-vs-gamerlegion?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+01/02/25,MOUZ,GamerLegion,11,13,Mirage,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/191503/gamerlegion-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+01/05/25,MOUZ,Vitality,9,13,Inferno,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198658/mouz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+01/05/25,MOUZ,Vitality,13,9,Mirage,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198651/vitality-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+01/05/25,MOUZ,Vitality,8,13,Train,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198663/mouz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+01/08/25,MOUZ,FURIA,13,11,Inferno,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/204114/mouz-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+01/08/25,MOUZ,FURIA,10,13,Mirage,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/204108/furia-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+01/08/25,MOUZ,FURIA,19,16,Train,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/204098/mouz-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+02/05/25,MOUZ,FaZe,13,11,Dust2,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198713/mouz-vs-faze?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+02/05/25,MOUZ,FaZe,13,2,Mirage,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198717/faze-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+02/08/25,MOUZ,Vitality,13,9,Mirage,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/204166/vitality-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+02/08/25,MOUZ,Vitality,13,8,Train,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/204170/mouz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+03/02/25,MOUZ,Liquid,7,13,Ancient,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/191590/liquid-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+03/02/25,MOUZ,Liquid,7,13,Nuke,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/191587/mouz-vs-liquid?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+03/05/25,MOUZ,Falcons,6,13,Dust2,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198800/mouz-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+03/05/25,MOUZ,Falcons,14,16,Nuke,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198790/falcons-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+03/08/25,MOUZ,Spirit,11,13,Ancient,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/204211/mouz-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+03/08/25,MOUZ,Spirit,7,13,Mirage,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/204203/spirit-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+03/08/25,MOUZ,Spirit,6,13,Nuke,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/204216/spirit-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+03/11/25,MOUZ,FaZe,13,5,Ancient,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212513/mouz-vs-faze?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+03/11/25,MOUZ,FaZe,13,8,Inferno,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212516/mouz-vs-faze?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+04/10/25,MOUZ,GamerLegion,13,3,Nuke,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/209640/gamerlegion-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+04/10/25,MOUZ,GamerLegion,13,9,Overpass,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/209637/mouz-vs-gamerlegion?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+04/11/25,MOUZ,Vitality,22,19,Inferno,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212601/vitality-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+04/11/25,MOUZ,Vitality,8,13,Nuke,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212598/mouz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+04/11/25,MOUZ,Vitality,13,3,Train,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212596/vitality-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+04/12/25,MOUZ,B8,13,6,Overpass,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215014/mouz-vs-b8?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+04/12/25,MOUZ,PARIVISION,16,14,Overpass,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/214981/mouz-vs-parivision?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+05/09/25,MOUZ,M80,13,10,Ancient,BLAST Open London 2025 Finals,https://www.hltv.org/stats/matches/mapstatsid/206628/mouz-vs-m80?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+05/09/25,MOUZ,M80,13,3,Inferno,BLAST Open London 2025 Finals,https://www.hltv.org/stats/matches/mapstatsid/206640/mouz-vs-m80?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+05/09/25,MOUZ,M80,9,13,Mirage,BLAST Open London 2025 Finals,https://www.hltv.org/stats/matches/mapstatsid/206635/m80-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+05/10/25,MOUZ,Gentle Mates,13,4,Inferno,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/209750/mouz-vs-gentle-mates?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+05/10/25,MOUZ,Gentle Mates,13,11,Mirage,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/209754/gentle-mates-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+05/11/25,MOUZ,FURIA,13,2,Inferno,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212686/furia-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+05/11/25,MOUZ,FURIA,11,13,Overpass,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212690/mouz-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+05/11/25,MOUZ,FURIA,16,14,Train,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212701/furia-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+05/12/25,MOUZ,Spirit,5,13,Mirage,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215070/mouz-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+05/12/25,MOUZ,Spirit,11,13,Overpass,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215080/mouz-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+05/12/25,MOUZ,Spirit,13,10,Train,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215074/spirit-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+06/09/25,MOUZ,Vitality,8,13,Inferno,BLAST Open London 2025 Finals,https://www.hltv.org/stats/matches/mapstatsid/206695/mouz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+06/09/25,MOUZ,Vitality,7,13,Mirage,BLAST Open London 2025 Finals,https://www.hltv.org/stats/matches/mapstatsid/206690/vitality-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+06/10/25,MOUZ,Falcons,9,13,Ancient,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/209950/mouz-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+06/10/25,MOUZ,Falcons,13,3,Inferno,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/209964/falcons-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+06/10/25,MOUZ,Falcons,7,13,Nuke,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/209973/mouz-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+06/12/25,MOUZ,Falcons,13,6,Inferno,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215170/falcons-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+06/12/25,MOUZ,Falcons,11,13,Mirage,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215161/mouz-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+06/12/25,MOUZ,Falcons,13,10,Nuke,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215176/mouz-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+07/03/25,MOUZ,FURIA,13,16,Inferno,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/194434/furia-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+07/03/25,MOUZ,FURIA,13,11,Nuke,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/194450/furia-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+07/03/25,MOUZ,FURIA,13,9,Train,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/194420/mouz-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+07/10/25,MOUZ,3DMAX,13,5,Inferno,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/210075/mouz-vs-3dmax?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+07/10/25,MOUZ,3DMAX,13,8,Overpass,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/210085/3dmax-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+08/03/25,MOUZ,Falcons,13,9,Nuke,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/194627/falcons-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+08/03/25,MOUZ,Falcons,13,7,Train,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/194606/mouz-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+08/11/25,MOUZ,Vitality,10,13,Inferno,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/213127/mouz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+08/11/25,MOUZ,Vitality,13,16,Nuke,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/213113/mouz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+08/11/25,MOUZ,Vitality,13,11,Train,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/213117/vitality-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+09/03/25,MOUZ,Vitality,7,13,Dust2,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/194847/mouz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+09/03/25,MOUZ,Vitality,6,13,Inferno,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/194830/vitality-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+09/11/25,MOUZ,Falcons,5,13,Ancient,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/213275/mouz-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+09/11/25,MOUZ,Falcons,13,11,Inferno,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/213276/falcons-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+09/11/25,MOUZ,Falcons,6,13,Mirage,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/213277/mouz-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+10/03/25,MOUZ,Liquid,13,8,Ancient,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/194977/mouz-vs-liquid?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+10/03/25,MOUZ,Liquid,13,4,Nuke,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/194986/liquid-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+10/10/25,MOUZ,Natus Vincere,14,16,Ancient,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/210444/mouz-vs-natus-vincere?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+10/10/25,MOUZ,Natus Vincere,13,8,Inferno,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/210456/mouz-vs-natus-vincere?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+10/10/25,MOUZ,Natus Vincere,13,4,Train,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/210463/mouz-vs-natus-vincere?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+11/10/25,MOUZ,Falcons,7,13,Ancient,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/210559/mouz-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+11/10/25,MOUZ,Falcons,13,16,Inferno,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/210550/mouz-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+12/06/25,MOUZ,FaZe,10,13,Ancient,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/201341/mouz-vs-faze?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+12/06/25,MOUZ,Virtus.pro,11,13,Mirage,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/201318/mouz-vs-virtuspro?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+12/10/25,MOUZ,FaZe,13,7,Ancient,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/210615/mouz-vs-faze?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+12/10/25,MOUZ,FaZe,13,10,Overpass,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/210620/faze-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+12/12/25,MOUZ,FaZe,2,13,Inferno,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215451/faze-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+12/12/25,MOUZ,FaZe,11,13,Nuke,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215448/mouz-vs-faze?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+13/03/25,MOUZ,G2,13,11,Ancient,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/195273/g2-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+13/03/25,MOUZ,G2,11,13,Inferno,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/195267/mouz-vs-g2?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+13/03/25,MOUZ,G2,13,8,Nuke,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/195270/g2-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+13/06/25,MOUZ,Liquid,13,8,Dust2,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/201394/mouz-vs-liquid?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+13/06/25,MOUZ,Liquid,22,19,Mirage,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/201422/mouz-vs-liquid?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+13/06/25,MOUZ,Liquid,4,13,Nuke,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/201406/liquid-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+14/02/25,MOUZ,BIG,16,13,Ancient,PGL Cluj-Napoca 2025,https://www.hltv.org/stats/matches/mapstatsid/192633/mouz-vs-big?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+14/02/25,MOUZ,BIG,13,5,Mirage,PGL Cluj-Napoca 2025,https://www.hltv.org/stats/matches/mapstatsid/192637/big-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+14/06/25,MOUZ,Aurora,11,13,Inferno,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/201535/mouz-vs-aurora?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+14/06/25,MOUZ,Aurora,13,6,Mirage,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/201543/aurora-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+14/06/25,MOUZ,Aurora,13,10,Train,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/201524/aurora-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+14/08/25,MOUZ,Astralis,13,4,Mirage,BLAST Bounty 2025 Season 2 Finals,https://www.hltv.org/stats/matches/mapstatsid/205057/astralis-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+14/08/25,MOUZ,Astralis,13,8,Nuke,BLAST Bounty 2025 Season 2 Finals,https://www.hltv.org/stats/matches/mapstatsid/205044/mouz-vs-astralis?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+15/02/25,MOUZ,3DMAX,13,9,Inferno,PGL Cluj-Napoca 2025,https://www.hltv.org/stats/matches/mapstatsid/192711/mouz-vs-3dmax?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+15/02/25,MOUZ,3DMAX,13,8,Nuke,PGL Cluj-Napoca 2025,https://www.hltv.org/stats/matches/mapstatsid/192715/3dmax-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+15/03/25,MOUZ,Spirit,13,10,Ancient,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/195397/mouz-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+15/03/25,MOUZ,Spirit,7,13,Dust2,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/195386/mouz-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+15/03/25,MOUZ,Spirit,16,14,Nuke,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/195371/spirit-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+15/06/25,MOUZ,Legacy,4,13,Ancient,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/201609/legacy-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+15/06/25,MOUZ,Legacy,13,11,Inferno,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/201618/mouz-vs-legacy?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+15/06/25,MOUZ,Legacy,13,10,Nuke,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/201628/legacy-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+16/02/25,MOUZ,FaZe,11,13,Ancient,PGL Cluj-Napoca 2025,https://www.hltv.org/stats/matches/mapstatsid/192818/mouz-vs-faze?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+16/02/25,MOUZ,FaZe,7,13,Mirage,PGL Cluj-Napoca 2025,https://www.hltv.org/stats/matches/mapstatsid/192820/faze-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+16/03/25,MOUZ,Vitality,9,13,Dust2,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/195462/mouz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+16/03/25,MOUZ,Vitality,5,13,Inferno,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/195473/mouz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+16/03/25,MOUZ,Vitality,4,13,Nuke,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/195467/vitality-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+16/08/25,MOUZ,Spirit,14,16,Ancient,BLAST Bounty 2025 Season 2 Finals,https://www.hltv.org/stats/matches/mapstatsid/205288/mouz-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+16/08/25,MOUZ,Spirit,5,13,Mirage,BLAST Bounty 2025 Season 2 Finals,https://www.hltv.org/stats/matches/mapstatsid/205300/spirit-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+17/02/25,MOUZ,Falcons,8,13,Ancient,PGL Cluj-Napoca 2025,https://www.hltv.org/stats/matches/mapstatsid/192855/mouz-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+17/02/25,MOUZ,Falcons,13,8,Dust2,PGL Cluj-Napoca 2025,https://www.hltv.org/stats/matches/mapstatsid/192847/mouz-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+17/02/25,MOUZ,Falcons,10,13,Mirage,PGL Cluj-Napoca 2025,https://www.hltv.org/stats/matches/mapstatsid/192850/falcons-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+18/02/25,MOUZ,Virtus.pro,13,8,Ancient,PGL Cluj-Napoca 2025,https://www.hltv.org/stats/matches/mapstatsid/192940/mouz-vs-virtuspro?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+18/02/25,MOUZ,Virtus.pro,13,16,Inferno,PGL Cluj-Napoca 2025,https://www.hltv.org/stats/matches/mapstatsid/192951/virtuspro-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+18/02/25,MOUZ,Virtus.pro,13,2,Mirage,PGL Cluj-Napoca 2025,https://www.hltv.org/stats/matches/mapstatsid/192955/mouz-vs-virtuspro?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+19/03/25,MOUZ,Falcons,13,10,Ancient,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/195645/falcons-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+19/03/25,MOUZ,Falcons,13,11,Train,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/195638/mouz-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+19/05/25,MOUZ,BC.Game,13,9,Dust2,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200028/mouz-vs-bcgame?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+19/05/25,MOUZ,BC.Game,13,9,Mirage,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200031/bcgame-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+19/06/25,MOUZ,Spirit,13,9,Dust2,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/201850/mouz-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+19/06/25,MOUZ,Spirit,21,25,Mirage,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/201844/spirit-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+19/06/25,MOUZ,Spirit,13,10,Nuke,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/201852/spirit-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+20/05/25,MOUZ,Liquid,13,8,Inferno,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200093/mouz-vs-liquid?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+20/05/25,MOUZ,Liquid,13,2,Train,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200097/liquid-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+21/02/25,MOUZ,paiN,13,11,Inferno,PGL Cluj-Napoca 2025,https://www.hltv.org/stats/matches/mapstatsid/193124/pain-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+21/02/25,MOUZ,paiN,13,11,Mirage,PGL Cluj-Napoca 2025,https://www.hltv.org/stats/matches/mapstatsid/193127/mouz-vs-pain?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+21/03/25,MOUZ,Spirit,25,22,Ancient,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/195800/mouz-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+21/03/25,MOUZ,Spirit,3,13,Dust2,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/195792/mouz-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+21/03/25,MOUZ,Spirit,16,13,Nuke,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/195795/spirit-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+21/04/25,MOUZ,BIG,13,8,Ancient,IEM Melbourne 2025,https://www.hltv.org/stats/matches/mapstatsid/198039/mouz-vs-big?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+21/04/25,MOUZ,BIG,6,13,Inferno,IEM Melbourne 2025,https://www.hltv.org/stats/matches/mapstatsid/198036/mouz-vs-big?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+21/04/25,MOUZ,BIG,13,9,Mirage,IEM Melbourne 2025,https://www.hltv.org/stats/matches/mapstatsid/198037/big-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+21/05/25,MOUZ,Falcons,13,4,Dust2,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200173/mouz-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+21/05/25,MOUZ,Falcons,16,12,Mirage,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200175/falcons-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+21/06/25,MOUZ,Vitality,13,4,Inferno,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/201944/mouz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+21/06/25,MOUZ,Vitality,8,13,Mirage,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/201942/vitality-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+21/06/25,MOUZ,Vitality,6,13,Train,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/201949/vitality-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+21/08/25,MOUZ,Virtus.pro,6,13,Inferno,Esports World Cup 2025,https://www.hltv.org/stats/matches/mapstatsid/205694/mouz-vs-virtuspro?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+21/08/25,MOUZ,Virtus.pro,13,4,Mirage,Esports World Cup 2025,https://www.hltv.org/stats/matches/mapstatsid/205701/virtuspro-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+21/08/25,MOUZ,Virtus.pro,13,10,Overpass,Esports World Cup 2025,https://www.hltv.org/stats/matches/mapstatsid/205706/mouz-vs-virtuspro?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+22/02/25,MOUZ,Astralis,13,5,Ancient,PGL Cluj-Napoca 2025,https://www.hltv.org/stats/matches/mapstatsid/193242/mouz-vs-astralis?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+22/02/25,MOUZ,Astralis,16,14,Inferno,PGL Cluj-Napoca 2025,https://www.hltv.org/stats/matches/mapstatsid/193233/mouz-vs-astralis?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+22/02/25,MOUZ,Astralis,8,13,Nuke,PGL Cluj-Napoca 2025,https://www.hltv.org/stats/matches/mapstatsid/193238/astralis-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+22/04/25,MOUZ,GamerLegion,13,6,Inferno,IEM Melbourne 2025,https://www.hltv.org/stats/matches/mapstatsid/198084/mouz-vs-gamerlegion?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+22/04/25,MOUZ,GamerLegion,16,13,Nuke,IEM Melbourne 2025,https://www.hltv.org/stats/matches/mapstatsid/198089/gamerlegion-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+22/08/25,MOUZ,Falcons,9,13,Ancient,Esports World Cup 2025,https://www.hltv.org/stats/matches/mapstatsid/205782/mouz-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+22/08/25,MOUZ,Falcons,13,8,Inferno,Esports World Cup 2025,https://www.hltv.org/stats/matches/mapstatsid/205785/falcons-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+22/08/25,MOUZ,Falcons,10,13,Nuke,Esports World Cup 2025,https://www.hltv.org/stats/matches/mapstatsid/205789/falcons-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+23/02/25,MOUZ,Falcons,13,9,Ancient,PGL Cluj-Napoca 2025,https://www.hltv.org/stats/matches/mapstatsid/193350/falcons-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+23/02/25,MOUZ,Falcons,13,6,Dust2,PGL Cluj-Napoca 2025,https://www.hltv.org/stats/matches/mapstatsid/193336/mouz-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+23/02/25,MOUZ,Falcons,4,13,Mirage,PGL Cluj-Napoca 2025,https://www.hltv.org/stats/matches/mapstatsid/193340/falcons-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+23/02/25,MOUZ,Falcons,13,11,Nuke,PGL Cluj-Napoca 2025,https://www.hltv.org/stats/matches/mapstatsid/193345/mouz-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+23/04/25,MOUZ,The MongolZ,13,9,Mirage,IEM Melbourne 2025,https://www.hltv.org/stats/matches/mapstatsid/198148/mouz-vs-the-mongolz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+23/04/25,MOUZ,The MongolZ,13,7,Nuke,IEM Melbourne 2025,https://www.hltv.org/stats/matches/mapstatsid/198150/the-mongolz-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+24/03/25,MOUZ,Vitality,11,13,Dust2,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/195950/mouz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+24/03/25,MOUZ,Vitality,11,13,Mirage,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/195948/vitality-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+24/05/25,MOUZ,The MongolZ,13,11,Inferno,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200327/mouz-vs-the-mongolz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+24/05/25,MOUZ,The MongolZ,13,11,Nuke,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200332/the-mongolz-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+25/05/25,MOUZ,Vitality,11,13,Dust2,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200375/mouz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+25/05/25,MOUZ,Vitality,8,13,Inferno,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200379/mouz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+25/05/25,MOUZ,Vitality,9,13,Mirage,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200377/vitality-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+26/04/25,MOUZ,Falcons,3,13,Dust2,IEM Melbourne 2025,https://www.hltv.org/stats/matches/mapstatsid/198260/mouz-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+26/04/25,MOUZ,Falcons,6,13,Nuke,IEM Melbourne 2025,https://www.hltv.org/stats/matches/mapstatsid/198261/falcons-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+27/07/25,MOUZ,Liquid,13,7,Inferno,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/203786/mouz-vs-liquid?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+27/07/25,MOUZ,Liquid,13,9,Train,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/203792/liquid-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+28/03/25,MOUZ,G2,13,8,Inferno,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/196387/mouz-vs-g2?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+28/03/25,MOUZ,G2,13,3,Nuke,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/196397/g2-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+28/07/25,MOUZ,Natus Vincere,13,10,Mirage,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/203862/mouz-vs-natus-vincere?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+28/07/25,MOUZ,Natus Vincere,13,10,Nuke,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/203865/natus-vincere-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+29/03/25,MOUZ,Eternal Fire,13,10,Dust2,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/196572/mouz-vs-eternal-fire?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+29/03/25,MOUZ,Eternal Fire,13,11,Nuke,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/196561/eternal-fire-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+29/07/25,MOUZ,Spirit,13,16,Ancient,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/203935/mouz-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+29/07/25,MOUZ,Spirit,22,19,Mirage,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/203939/spirit-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+29/07/25,MOUZ,Spirit,6,13,Overpass,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/203949/spirit-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+30/03/25,MOUZ,Vitality,13,11,Dust2,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/196717/mouz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+30/03/25,MOUZ,Vitality,0,13,Inferno,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/196700/mouz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+30/03/25,MOUZ,Vitality,13,11,Mirage,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/196707/vitality-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+30/03/25,MOUZ,Vitality,7,13,Nuke,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/196723/vitality-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+30/03/25,MOUZ,Vitality,7,13,Train,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/196726/mouz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+30/04/25,MOUZ,paiN,13,0,Dust2,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198578/pain-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+30/04/25,MOUZ,paiN,11,13,Inferno,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198575/pain-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+30/04/25,MOUZ,paiN,13,9,Nuke,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198564/mouz-vs-pain?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+01/05/25,Spirit,Falcons,6,13,Ancient,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198687/falcons-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+01/05/25,Spirit,Falcons,12,16,Dust2,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198689/falcons-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+01/05/25,Spirit,Falcons,13,4,Mirage,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198686/spirit-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+02/02/25,Spirit,Astralis,13,4,Dust2,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/191536/astralis-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+02/02/25,Spirit,Astralis,13,5,Nuke,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/191531/spirit-vs-astralis?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+02/05/25,Spirit,Wildcard,13,7,Anubis,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198724/spirit-vs-wildcard?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+02/05/25,Spirit,Wildcard,13,2,Dust2,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198727/wildcard-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+02/08/25,Spirit,Natus Vincere,13,6,Ancient,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/204158/natus-vincere-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+02/08/25,Spirit,Natus Vincere,13,11,Mirage,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/204147/spirit-vs-natus-vincere?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+02/08/25,Spirit,Natus Vincere,9,13,Nuke,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/204152/natus-vincere-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+03/02/25,Spirit,Natus Vincere,13,11,Dust2,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/191601/natus-vincere-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+03/02/25,Spirit,Natus Vincere,8,13,Mirage,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/191593/spirit-vs-natus-vincere?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+03/02/25,Spirit,Natus Vincere,14,16,Nuke,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/191605/spirit-vs-natus-vincere?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+03/05/25,Spirit,Vitality,8,13,Mirage,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198810/vitality-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+03/05/25,Spirit,Vitality,9,13,Nuke,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198816/spirit-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+03/08/25,Spirit,MOUZ,13,11,Ancient,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/204211/mouz-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+03/08/25,Spirit,MOUZ,13,7,Mirage,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/204203/spirit-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+03/08/25,Spirit,MOUZ,13,6,Nuke,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/204216/spirit-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+03/11/25,Spirit,paiN,13,7,Ancient,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212528/pain-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+03/11/25,Spirit,paiN,13,11,Nuke,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212532/spirit-vs-pain?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+04/02/25,Spirit,GamerLegion,13,6,Ancient,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/191669/spirit-vs-gamerlegion?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+04/02/25,Spirit,GamerLegion,11,13,Anubis,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/191665/spirit-vs-gamerlegion?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+04/02/25,Spirit,Liquid,13,8,Dust2,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/191645/liquid-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+04/02/25,Spirit,GamerLegion,13,4,Nuke,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/191671/spirit-vs-gamerlegion?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+04/02/25,Spirit,Liquid,13,10,Nuke,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/191637/spirit-vs-liquid?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+04/10/25,Spirit,Inner Circle,13,4,Ancient,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/209634/spirit-vs-inner-circle?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+04/10/25,Spirit,Inner Circle,13,11,Mirage,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/209645/spirit-vs-inner-circle?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+04/10/25,Spirit,Inner Circle,4,13,Nuke,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/209639/inner-circle-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+04/11/25,Spirit,Falcons,13,16,Ancient,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212620/spirit-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+04/11/25,Spirit,Falcons,6,13,Dust2,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212617/falcons-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+04/12/25,Spirit,FaZe,13,5,Dust2,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215010/spirit-vs-faze?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+04/12/25,Spirit,Liquid,13,8,Train,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/214989/spirit-vs-liquid?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+05/10/25,Spirit,HOTU,13,6,Dust2,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/209773/hotu-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+05/10/25,Spirit,HOTU,13,7,Overpass,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/209764/spirit-vs-hotu?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+05/11/25,Spirit,The MongolZ,19,16,Ancient,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212718/spirit-vs-the-mongolz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+05/11/25,Spirit,HEROIC,13,6,Ancient,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212681/heroic-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+05/11/25,Spirit,The MongolZ,7,13,Dust2,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212707/the-mongolz-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+05/11/25,Spirit,HEROIC,16,13,Dust2,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212678/heroic-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+05/11/25,Spirit,The MongolZ,6,13,Mirage,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212727/spirit-vs-the-mongolz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+05/11/25,Spirit,HEROIC,11,13,Overpass,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212675/spirit-vs-heroic?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+05/12/25,Spirit,MOUZ,13,5,Mirage,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215070/mouz-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+05/12/25,Spirit,MOUZ,13,11,Overpass,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215080/mouz-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+05/12/25,Spirit,MOUZ,10,13,Train,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215074/spirit-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+06/10/25,Spirit,G2,13,8,Dust2,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/209931/spirit-vs-g2?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+06/10/25,Spirit,G2,13,9,Mirage,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/209947/g2-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+07/02/25,Spirit,Virtus.pro,13,9,Ancient,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/191949/virtuspro-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+07/02/25,Spirit,Virtus.pro,13,2,Train,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/191944/spirit-vs-virtuspro?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+07/03/25,Spirit,TYLOO,13,11,Anubis,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/194377/tyloo-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+07/03/25,Spirit,TYLOO,13,6,Nuke,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/194384/tyloo-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+08/02/25,Spirit,Natus Vincere,16,14,Dust2,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/192060/natus-vincere-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+08/02/25,Spirit,Natus Vincere,13,8,Mirage,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/192046/spirit-vs-natus-vincere?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+08/03/25,Spirit,SAW,13,1,Dust2,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/194653/saw-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+08/03/25,Spirit,SAW,13,8,Train,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/194676/spirit-vs-saw?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+09/02/25,Spirit,Vitality,6,13,Dust2,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/192180/vitality-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+09/02/25,Spirit,Vitality,11,13,Mirage,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/192189/vitality-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+09/02/25,Spirit,Vitality,5,13,Nuke,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/192186/spirit-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+09/03/25,Spirit,The MongolZ,13,6,Anubis,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/194813/spirit-vs-the-mongolz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+09/03/25,Spirit,The MongolZ,13,11,Dust2,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/194823/the-mongolz-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+10/05/25,Spirit,GamerLegion,13,11,Mirage,PGL Astana 2025,https://www.hltv.org/stats/matches/mapstatsid/199359/spirit-vs-gamerlegion?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+10/05/25,Spirit,GamerLegion,13,11,Nuke,PGL Astana 2025,https://www.hltv.org/stats/matches/mapstatsid/199367/gamerlegion-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+10/10/25,Spirit,FaZe,5,13,Mirage,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/210479/faze-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+10/10/25,Spirit,FaZe,9,13,Nuke,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/210475/spirit-vs-faze?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+11/05/25,Spirit,Ninjas in Pyjamas,13,4,Dust2,PGL Astana 2025,https://www.hltv.org/stats/matches/mapstatsid/199427/ninjas-in-pyjamas-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+11/05/25,Spirit,Ninjas in Pyjamas,16,13,Train,PGL Astana 2025,https://www.hltv.org/stats/matches/mapstatsid/199421/spirit-vs-ninjas-in-pyjamas?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+11/12/25,Spirit,Falcons,16,12,Dust2,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215408/falcons-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+11/12/25,Spirit,Falcons,13,4,Nuke,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215404/spirit-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+12/05/25,Spirit,Astralis,13,5,Ancient,PGL Astana 2025,https://www.hltv.org/stats/matches/mapstatsid/199520/spirit-vs-astralis?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+12/05/25,Spirit,Astralis,13,7,Dust2,PGL Astana 2025,https://www.hltv.org/stats/matches/mapstatsid/199513/astralis-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+12/06/25,Spirit,Lynn Vision,13,7,Dust2,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/201337/lynn-vision-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+12/06/25,Spirit,paiN,13,3,Dust2,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/201320/pain-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+12/11/25,Spirit,Falcons,13,16,Dust2,BLAST Rivals 2025 Season 2,https://www.hltv.org/stats/matches/mapstatsid/213523/falcons-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+12/11/25,Spirit,Falcons,8,13,Nuke,BLAST Rivals 2025 Season 2,https://www.hltv.org/stats/matches/mapstatsid/213525/spirit-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+13/03/25,Spirit,Eternal Fire,10,13,Anubis,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/195257/spirit-vs-eternal-fire?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+13/03/25,Spirit,Eternal Fire,13,7,Mirage,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/195260/eternal-fire-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+13/03/25,Spirit,Eternal Fire,19,15,Nuke,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/195249/eternal-fire-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+13/06/25,Spirit,Natus Vincere,13,11,Anubis,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/201382/spirit-vs-natus-vincere?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+13/06/25,Spirit,Natus Vincere,13,3,Train,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/201389/spirit-vs-natus-vincere?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+13/11/25,Spirit,The MongolZ,13,10,Ancient,BLAST Rivals 2025 Season 2,https://www.hltv.org/stats/matches/mapstatsid/213616/spirit-vs-the-mongolz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+13/11/25,Spirit,The MongolZ,13,6,Dust2,BLAST Rivals 2025 Season 2,https://www.hltv.org/stats/matches/mapstatsid/213614/the-mongolz-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+13/12/25,Spirit,Vitality,8,13,Dust2,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215493/vitality-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+13/12/25,Spirit,Vitality,17,19,Mirage,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215488/spirit-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+14/11/25,Spirit,Vitality,13,11,Dust2,BLAST Rivals 2025 Season 2,https://www.hltv.org/stats/matches/mapstatsid/213712/vitality-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+14/11/25,Spirit,Vitality,13,16,Mirage,BLAST Rivals 2025 Season 2,https://www.hltv.org/stats/matches/mapstatsid/213719/vitality-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+14/11/25,Spirit,Vitality,16,19,Nuke,BLAST Rivals 2025 Season 2,https://www.hltv.org/stats/matches/mapstatsid/213714/spirit-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+15/03/25,Spirit,MOUZ,10,13,Ancient,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/195397/mouz-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+15/03/25,Spirit,MOUZ,13,7,Dust2,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/195386/mouz-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+15/03/25,Spirit,MOUZ,14,16,Nuke,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/195371/spirit-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+15/08/25,Spirit,Virtus.pro,13,10,Ancient,BLAST Bounty 2025 Season 2 Finals,https://www.hltv.org/stats/matches/mapstatsid/205194/virtuspro-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+15/08/25,Spirit,Virtus.pro,13,3,Overpass,BLAST Bounty 2025 Season 2 Finals,https://www.hltv.org/stats/matches/mapstatsid/205210/spirit-vs-virtuspro?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+16/05/25,Spirit,Ninjas in Pyjamas,13,11,Dust2,PGL Astana 2025,https://www.hltv.org/stats/matches/mapstatsid/199839/ninjas-in-pyjamas-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+16/05/25,Spirit,Ninjas in Pyjamas,13,8,Train,PGL Astana 2025,https://www.hltv.org/stats/matches/mapstatsid/199833/spirit-vs-ninjas-in-pyjamas?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+16/08/25,Spirit,MOUZ,16,14,Ancient,BLAST Bounty 2025 Season 2 Finals,https://www.hltv.org/stats/matches/mapstatsid/205288/mouz-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+16/08/25,Spirit,MOUZ,13,5,Mirage,BLAST Bounty 2025 Season 2 Finals,https://www.hltv.org/stats/matches/mapstatsid/205300/spirit-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+17/05/25,Spirit,FURIA,13,7,Mirage,PGL Astana 2025,https://www.hltv.org/stats/matches/mapstatsid/199902/spirit-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+17/05/25,Spirit,FURIA,13,9,Nuke,PGL Astana 2025,https://www.hltv.org/stats/matches/mapstatsid/199896/furia-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+17/05/25,Spirit,FURIA,7,13,Train,PGL Astana 2025,https://www.hltv.org/stats/matches/mapstatsid/199891/spirit-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+17/08/25,Spirit,The MongolZ,13,5,Ancient,BLAST Bounty 2025 Season 2 Finals,https://www.hltv.org/stats/matches/mapstatsid/205430/the-mongolz-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+17/08/25,Spirit,The MongolZ,16,13,Mirage,BLAST Bounty 2025 Season 2 Finals,https://www.hltv.org/stats/matches/mapstatsid/205417/spirit-vs-the-mongolz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+17/08/25,Spirit,The MongolZ,13,11,Nuke,BLAST Bounty 2025 Season 2 Finals,https://www.hltv.org/stats/matches/mapstatsid/205406/the-mongolz-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+18/05/25,Spirit,Astralis,13,5,Dust2,PGL Astana 2025,https://www.hltv.org/stats/matches/mapstatsid/199941/astralis-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+18/05/25,Spirit,Astralis,5,13,Mirage,PGL Astana 2025,https://www.hltv.org/stats/matches/mapstatsid/199948/astralis-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+18/05/25,Spirit,Astralis,13,10,Nuke,PGL Astana 2025,https://www.hltv.org/stats/matches/mapstatsid/199946/spirit-vs-astralis?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+18/05/25,Spirit,Astralis,16,13,Train,PGL Astana 2025,https://www.hltv.org/stats/matches/mapstatsid/199954/spirit-vs-astralis?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+19/03/25,Spirit,The Huns,13,8,Anubis,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/195624/spirit-vs-the-huns?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+19/03/25,Spirit,The Huns,13,4,Dust2,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/195628/the-huns-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+19/06/25,Spirit,MOUZ,9,13,Dust2,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/201850/mouz-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+19/06/25,Spirit,MOUZ,25,21,Mirage,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/201844/spirit-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+19/06/25,Spirit,MOUZ,10,13,Nuke,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/201852/spirit-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+20/08/25,Spirit,HEROIC,13,5,Ancient,Esports World Cup 2025,https://www.hltv.org/stats/matches/mapstatsid/205650/spirit-vs-heroic?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+20/08/25,Spirit,HEROIC,14,16,Mirage,Esports World Cup 2025,https://www.hltv.org/stats/matches/mapstatsid/205659/spirit-vs-heroic?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+20/08/25,Spirit,HEROIC,3,13,Nuke,Esports World Cup 2025,https://www.hltv.org/stats/matches/mapstatsid/205653/heroic-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+21/03/25,Spirit,MOUZ,22,25,Ancient,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/195800/mouz-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+21/03/25,Spirit,MOUZ,13,3,Dust2,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/195792/mouz-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+21/03/25,Spirit,MOUZ,13,16,Nuke,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/195795/spirit-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+23/01/25,Spirit,HEROIC,13,11,Anubis,BLAST Bounty 2025 Season 1 Finals,https://www.hltv.org/stats/matches/mapstatsid/190892/spirit-vs-heroic?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+23/01/25,Spirit,HEROIC,13,3,Nuke,BLAST Bounty 2025 Season 1 Finals,https://www.hltv.org/stats/matches/mapstatsid/190893/heroic-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+23/03/25,Spirit,FaZe,13,8,Anubis,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/195932/spirit-vs-faze?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+23/03/25,Spirit,FaZe,13,9,Nuke,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/195933/faze-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+24/03/25,Spirit,Virtus.pro,13,9,Ancient,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/195954/spirit-vs-virtuspro?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+24/03/25,Spirit,Virtus.pro,13,9,Anubis,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/195956/spirit-vs-virtuspro?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+25/01/25,Spirit,Natus Vincere,22,20,Ancient,BLAST Bounty 2025 Season 1 Finals,https://www.hltv.org/stats/matches/mapstatsid/191085/spirit-vs-natus-vincere?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+25/01/25,Spirit,Natus Vincere,13,9,Dust2,BLAST Bounty 2025 Season 1 Finals,https://www.hltv.org/stats/matches/mapstatsid/191082/natus-vincere-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+26/01/25,Spirit,Eternal Fire,14,16,Anubis,BLAST Bounty 2025 Season 1 Finals,https://www.hltv.org/stats/matches/mapstatsid/191111/spirit-vs-eternal-fire?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+26/01/25,Spirit,Eternal Fire,13,3,Dust2,BLAST Bounty 2025 Season 1 Finals,https://www.hltv.org/stats/matches/mapstatsid/191121/spirit-vs-eternal-fire?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+26/01/25,Spirit,Eternal Fire,13,8,Mirage,BLAST Bounty 2025 Season 1 Finals,https://www.hltv.org/stats/matches/mapstatsid/191125/eternal-fire-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+26/01/25,Spirit,Eternal Fire,13,6,Nuke,BLAST Bounty 2025 Season 1 Finals,https://www.hltv.org/stats/matches/mapstatsid/191118/eternal-fire-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+27/07/25,Spirit,HEROIC,16,14,Ancient,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/203787/spirit-vs-heroic?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+27/07/25,Spirit,HEROIC,13,8,Nuke,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/203793/heroic-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+28/03/25,Spirit,Natus Vincere,13,6,Anubis,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/196417/spirit-vs-natus-vincere?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+28/03/25,Spirit,Natus Vincere,13,7,Dust2,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/196413/natus-vincere-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+28/07/25,Spirit,Aurora,13,8,Dust2,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/203868/aurora-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+28/07/25,Spirit,Aurora,13,10,Nuke,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/203871/aurora-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+29/03/25,Spirit,Vitality,6,13,Anubis,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/196594/spirit-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+29/03/25,Spirit,Vitality,10,13,Mirage,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/196609/spirit-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+29/03/25,Spirit,Vitality,13,5,Nuke,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/196605/spirit-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+29/07/25,Spirit,MOUZ,16,13,Ancient,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/203935/mouz-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+29/07/25,Spirit,MOUZ,19,22,Mirage,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/203939/spirit-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+29/07/25,Spirit,MOUZ,13,6,Overpass,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/203949/spirit-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+30/04/25,Spirit,FlyQuest,13,2,Mirage,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198551/spirit-vs-flyquest?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+30/04/25,Spirit,FlyQuest,13,9,Nuke,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198557/flyquest-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+01/02/25,Vitality,3DMAX,19,16,Inferno,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/191474/vitality-vs-3dmax?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+01/02/25,Vitality,3DMAX,13,9,Nuke,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/191483/3dmax-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+01/05/25,Vitality,MOUZ,13,9,Inferno,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198658/mouz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+01/05/25,Vitality,MOUZ,9,13,Mirage,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198651/vitality-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+01/05/25,Vitality,MOUZ,13,8,Train,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198663/mouz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+02/02/25,Vitality,FaZe,10,13,Anubis,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/191564/faze-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+02/02/25,Vitality,FaZe,19,16,Dust2,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/191570/vitality-vs-faze?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+02/02/25,Vitality,FaZe,13,3,Nuke,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/191558/faze-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+02/08/25,Vitality,MOUZ,9,13,Mirage,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/204166/vitality-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+02/08/25,Vitality,MOUZ,8,13,Train,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/204170/mouz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+03/05/25,Vitality,Spirit,13,8,Mirage,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198810/vitality-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+03/05/25,Vitality,Spirit,13,9,Nuke,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198816/spirit-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+03/11/25,Vitality,Virtus.pro,13,11,Dust2,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212517/virtuspro-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+03/11/25,Vitality,Virtus.pro,13,4,Mirage,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212518/vitality-vs-virtuspro?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+03/11/25,Vitality,Virtus.pro,9,13,Overpass,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212515/vitality-vs-virtuspro?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+04/02/25,Vitality,Virtus.pro,13,8,Anubis,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/191650/virtuspro-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+04/02/25,Vitality,Virtus.pro,13,5,Inferno,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/191652/virtuspro-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+04/05/25,Vitality,Falcons,13,6,Dust2,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198878/vitality-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+04/05/25,Vitality,Falcons,9,13,Inferno,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198873/falcons-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+04/05/25,Vitality,Falcons,14,16,Mirage,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198897/vitality-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+04/05/25,Vitality,Falcons,13,8,Nuke,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198902/falcons-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+04/05/25,Vitality,Falcons,13,6,Train,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198887/falcons-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+04/10/25,Vitality,Gentle Mates,6,13,Nuke,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/209670/vitality-vs-gentle-mates?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+04/10/25,Vitality,Gentle Mates,11,13,Train,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/209681/gentle-mates-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+04/11/25,Vitality,MOUZ,19,22,Inferno,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212601/vitality-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+04/11/25,Vitality,MOUZ,13,8,Nuke,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212598/mouz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+04/11/25,Vitality,MOUZ,3,13,Train,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212596/vitality-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+04/12/25,Vitality,3DMAX,13,4,Nuke,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215006/vitality-vs-3dmax?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+04/12/25,Vitality,FaZe,7,13,Nuke,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/214992/vitality-vs-faze?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+05/10/25,Vitality,GamerLegion,13,1,Dust2,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/209778/gamerlegion-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+05/10/25,Vitality,GamerLegion,13,3,Overpass,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/209770/vitality-vs-gamerlegion?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+05/11/25,Vitality,Lynn Vision,13,2,Dust2,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212668/vitality-vs-lynn-vision?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+05/11/25,Vitality,G2,13,11,Mirage,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212695/g2-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+05/11/25,Vitality,Lynn Vision,13,5,Nuke,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212673/lynn-vision-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+05/11/25,Vitality,G2,13,4,Train,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212688/vitality-vs-g2?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+05/12/25,Vitality,B8,13,2,Inferno,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215057/b8-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+06/09/25,Vitality,MOUZ,13,8,Inferno,BLAST Open London 2025 Finals,https://www.hltv.org/stats/matches/mapstatsid/206695/mouz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+06/09/25,Vitality,MOUZ,13,7,Mirage,BLAST Open London 2025 Finals,https://www.hltv.org/stats/matches/mapstatsid/206690/vitality-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+06/10/25,Vitality,HOTU,13,5,Dust2,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/209874/hotu-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+06/10/25,Vitality,HOTU,13,8,Overpass,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/209868/vitality-vs-hotu?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+06/12/25,Vitality,Natus Vincere,13,11,Inferno,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215139/natus-vincere-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+06/12/25,Vitality,Natus Vincere,13,11,Train,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215150/vitality-vs-natus-vincere?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+07/03/25,Vitality,MIBR,7,13,Anubis,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/194372/mibr-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+07/03/25,Vitality,MIBR,13,3,Inferno,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/194381/mibr-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+07/03/25,Vitality,MIBR,13,8,Train,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/194386/vitality-vs-mibr?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+07/09/25,Vitality,G2,3,13,Dust2,BLAST Open London 2025 Finals,https://www.hltv.org/stats/matches/mapstatsid/206813/g2-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+07/09/25,Vitality,G2,12,16,Inferno,BLAST Open London 2025 Finals,https://www.hltv.org/stats/matches/mapstatsid/206832/vitality-vs-g2?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+07/09/25,Vitality,G2,13,6,Mirage,BLAST Open London 2025 Finals,https://www.hltv.org/stats/matches/mapstatsid/206820/vitality-vs-g2?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+07/09/25,Vitality,G2,13,6,Overpass,BLAST Open London 2025 Finals,https://www.hltv.org/stats/matches/mapstatsid/206825/g2-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+07/09/25,Vitality,G2,6,13,Train,BLAST Open London 2025 Finals,https://www.hltv.org/stats/matches/mapstatsid/206843/g2-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+07/10/25,Vitality,G2,13,2,Inferno,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/210091/vitality-vs-g2?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+07/10/25,Vitality,G2,16,13,Mirage,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/210103/g2-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+07/11/25,Vitality,Astralis,13,7,Inferno,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212913/astralis-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+07/11/25,Vitality,Astralis,13,7,Mirage,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212921/astralis-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+07/11/25,Vitality,Astralis,14,16,Nuke,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/212916/vitality-vs-astralis?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+08/02/25,Vitality,The MongolZ,13,7,Mirage,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/192027/vitality-vs-the-mongolz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+08/02/25,Vitality,The MongolZ,13,9,Nuke,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/192037/the-mongolz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+08/03/25,Vitality,3DMAX,13,7,Dust2,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/194635/3dmax-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+08/03/25,Vitality,3DMAX,13,5,Train,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/194616/vitality-vs-3dmax?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+08/11/25,Vitality,MOUZ,13,10,Inferno,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/213127/mouz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+08/11/25,Vitality,MOUZ,16,13,Nuke,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/213113/mouz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+08/11/25,Vitality,MOUZ,11,13,Train,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/213117/vitality-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+09/02/25,Vitality,Spirit,13,6,Dust2,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/192180/vitality-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+09/02/25,Vitality,Spirit,13,11,Mirage,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/192189/vitality-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+09/02/25,Vitality,Spirit,13,5,Nuke,IEM Katowice 2025,https://www.hltv.org/stats/matches/mapstatsid/192186/spirit-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+09/03/25,Vitality,MOUZ,13,7,Dust2,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/194847/mouz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+09/03/25,Vitality,MOUZ,13,6,Inferno,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/194830/vitality-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+09/11/25,Vitality,FURIA,11,13,Ancient,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/213281/vitality-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+09/11/25,Vitality,FURIA,10,13,Inferno,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/213286/furia-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+09/11/25,Vitality,FURIA,11,13,Overpass,IEM Chengdu 2025,https://www.hltv.org/stats/matches/mapstatsid/213294/vitality-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+10/10/25,Vitality,FURIA,13,7,Inferno,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/210508/furia-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+10/10/25,Vitality,FURIA,13,7,Nuke,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/210516/vitality-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+10/10/25,Vitality,FURIA,9,13,Overpass,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/210497/vitality-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+11/10/25,Vitality,FaZe,13,8,Dust2,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/210591/faze-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+11/10/25,Vitality,FaZe,13,9,Inferno,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/210585/vitality-vs-faze?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+11/10/25,Vitality,FaZe,20,22,Mirage,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/210567/vitality-vs-faze?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+11/12/25,Vitality,The MongolZ,13,4,Dust2,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215413/the-mongolz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+11/12/25,Vitality,The MongolZ,13,5,Mirage,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215412/vitality-vs-the-mongolz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+12/06/25,Vitality,Legacy,3,13,Inferno,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/201317/vitality-vs-legacy?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+12/10/25,Vitality,Falcons,13,5,Dust2,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/210644/falcons-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+12/10/25,Vitality,Falcons,13,10,Inferno,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/210632/vitality-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+12/10/25,Vitality,Falcons,13,9,Train,ESL Pro League Season 22,https://www.hltv.org/stats/matches/mapstatsid/210636/vitality-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+12/11/25,Vitality,TYLOO,13,11,Inferno,BLAST Rivals 2025 Season 2,https://www.hltv.org/stats/matches/mapstatsid/213554/tyloo-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+12/11/25,Vitality,TYLOO,4,13,Nuke,BLAST Rivals 2025 Season 2,https://www.hltv.org/stats/matches/mapstatsid/213548/tyloo-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+12/11/25,Vitality,TYLOO,13,2,Overpass,BLAST Rivals 2025 Season 2,https://www.hltv.org/stats/matches/mapstatsid/213543/vitality-vs-tyloo?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+13/06/25,Vitality,Nemiga,13,6,Dust2,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/201340/vitality-vs-nemiga?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+13/06/25,Vitality,3DMAX,13,2,Nuke,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/201373/vitality-vs-3dmax?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+13/11/25,Vitality,FURIA,5,13,Inferno,BLAST Rivals 2025 Season 2,https://www.hltv.org/stats/matches/mapstatsid/213642/vitality-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+13/11/25,Vitality,FURIA,11,13,Nuke,BLAST Rivals 2025 Season 2,https://www.hltv.org/stats/matches/mapstatsid/213632/furia-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+13/11/25,Vitality,FURIA,16,13,Overpass,BLAST Rivals 2025 Season 2,https://www.hltv.org/stats/matches/mapstatsid/213637/vitality-vs-furia?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+13/12/25,Vitality,Spirit,13,8,Dust2,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215493/vitality-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+13/12/25,Vitality,Spirit,19,17,Mirage,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215488/spirit-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+14/03/25,Vitality,Liquid,13,9,Anubis,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/195308/liquid-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+14/03/25,Vitality,Liquid,13,9,Dust2,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/195311/liquid-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+14/06/25,Vitality,Virtus.pro,13,6,Dust2,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/201553/vitality-vs-virtuspro?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+14/06/25,Vitality,Virtus.pro,13,6,Train,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/201548/virtuspro-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+14/11/25,Vitality,Spirit,11,13,Dust2,BLAST Rivals 2025 Season 2,https://www.hltv.org/stats/matches/mapstatsid/213712/vitality-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+14/11/25,Vitality,Spirit,16,13,Mirage,BLAST Rivals 2025 Season 2,https://www.hltv.org/stats/matches/mapstatsid/213719/vitality-vs-spirit?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+14/11/25,Vitality,Spirit,19,16,Nuke,BLAST Rivals 2025 Season 2,https://www.hltv.org/stats/matches/mapstatsid/213714/spirit-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+14/12/25,Vitality,FaZe,13,3,Dust2,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215528/faze-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+14/12/25,Vitality,FaZe,13,9,Inferno,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215531/vitality-vs-faze?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+14/12/25,Vitality,FaZe,6,13,Nuke,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215525/vitality-vs-faze?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+14/12/25,Vitality,FaZe,13,2,Overpass,StarLadder Budapest Major 2025,https://www.hltv.org/stats/matches/mapstatsid/215532/faze-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+15/03/25,Vitality,The MongolZ,13,4,Anubis,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/195407/the-mongolz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+15/03/25,Vitality,The MongolZ,13,2,Inferno,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/195420/the-mongolz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+15/03/25,Vitality,The MongolZ,14,16,Nuke,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/195417/the-mongolz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+15/08/25,Vitality,Liquid,19,16,Nuke,BLAST Bounty 2025 Season 2 Finals,https://www.hltv.org/stats/matches/mapstatsid/205177/liquid-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+15/08/25,Vitality,Liquid,16,13,Train,BLAST Bounty 2025 Season 2 Finals,https://www.hltv.org/stats/matches/mapstatsid/205167/vitality-vs-liquid?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+15/11/25,Vitality,Falcons,13,16,Inferno,BLAST Rivals 2025 Season 2,https://www.hltv.org/stats/matches/mapstatsid/213779/falcons-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+15/11/25,Vitality,Falcons,7,13,Nuke,BLAST Rivals 2025 Season 2,https://www.hltv.org/stats/matches/mapstatsid/213781/vitality-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+16/03/25,Vitality,MOUZ,13,9,Dust2,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/195462/mouz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+16/03/25,Vitality,MOUZ,13,5,Inferno,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/195473/mouz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+16/03/25,Vitality,MOUZ,13,4,Nuke,ESL Pro League Season 21,https://www.hltv.org/stats/matches/mapstatsid/195467/vitality-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+16/08/25,Vitality,The MongolZ,11,13,Inferno,BLAST Bounty 2025 Season 2 Finals,https://www.hltv.org/stats/matches/mapstatsid/205330/the-mongolz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+16/08/25,Vitality,The MongolZ,7,13,Mirage,BLAST Bounty 2025 Season 2 Finals,https://www.hltv.org/stats/matches/mapstatsid/205311/vitality-vs-the-mongolz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+19/03/25,Vitality,Astralis,13,6,Dust2,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/195651/astralis-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+19/03/25,Vitality,Astralis,13,4,Inferno,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/195648/vitality-vs-astralis?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+19/05/25,Vitality,Legacy,13,11,Dust2,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200029/legacy-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+19/05/25,Vitality,Legacy,13,5,Inferno,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200022/vitality-vs-legacy?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+20/05/25,Vitality,GamerLegion,13,9,Mirage,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200103/vitality-vs-gamerlegion?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+20/05/25,Vitality,GamerLegion,13,10,Nuke,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200105/gamerlegion-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+20/06/25,Vitality,Natus Vincere,13,9,Mirage,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/201895/vitality-vs-natus-vincere?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+20/06/25,Vitality,Natus Vincere,13,11,Nuke,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/201898/natus-vincere-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+20/08/25,Vitality,Liquid,19,16,Dust2,Esports World Cup 2025,https://www.hltv.org/stats/matches/mapstatsid/205642/liquid-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+20/08/25,Vitality,Liquid,13,11,Mirage,Esports World Cup 2025,https://www.hltv.org/stats/matches/mapstatsid/205634/vitality-vs-liquid?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+21/03/25,Vitality,Virtus.pro,13,6,Anubis,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/195808/virtuspro-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+21/03/25,Vitality,Virtus.pro,13,5,Inferno,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/195810/virtuspro-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+21/04/25,Vitality,FlyQuest,13,2,Anubis,IEM Melbourne 2025,https://www.hltv.org/stats/matches/mapstatsid/198041/flyquest-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+21/04/25,Vitality,FlyQuest,13,8,Nuke,IEM Melbourne 2025,https://www.hltv.org/stats/matches/mapstatsid/198048/flyquest-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+21/06/25,Vitality,MOUZ,4,13,Inferno,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/201944/mouz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+21/06/25,Vitality,MOUZ,13,8,Mirage,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/201942/vitality-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+21/06/25,Vitality,MOUZ,13,6,Train,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/201949/vitality-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+21/08/25,Vitality,TYLOO,13,4,Inferno,Esports World Cup 2025,https://www.hltv.org/stats/matches/mapstatsid/205730/vitality-vs-tyloo?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+21/08/25,Vitality,TYLOO,13,8,Nuke,Esports World Cup 2025,https://www.hltv.org/stats/matches/mapstatsid/205733/tyloo-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+22/04/25,Vitality,Liquid,13,5,Mirage,IEM Melbourne 2025,https://www.hltv.org/stats/matches/mapstatsid/198098/vitality-vs-liquid?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+22/04/25,Vitality,Liquid,13,8,Nuke,IEM Melbourne 2025,https://www.hltv.org/stats/matches/mapstatsid/198100/liquid-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+22/05/25,Vitality,The MongolZ,13,10,Inferno,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200178/vitality-vs-the-mongolz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+22/05/25,Vitality,The MongolZ,13,11,Mirage,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200182/vitality-vs-the-mongolz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+22/05/25,Vitality,The MongolZ,7,13,Nuke,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200180/the-mongolz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+22/06/25,Vitality,The MongolZ,13,4,Dust2,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/202027/vitality-vs-the-mongolz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+22/06/25,Vitality,The MongolZ,13,6,Inferno,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/202030/vitality-vs-the-mongolz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+22/06/25,Vitality,The MongolZ,5,13,Mirage,BLAST.tv Austin Major 2025,https://www.hltv.org/stats/matches/mapstatsid/202022/vitality-vs-the-mongolz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+23/04/25,Vitality,Falcons,13,8,Inferno,IEM Melbourne 2025,https://www.hltv.org/stats/matches/mapstatsid/198158/falcons-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+23/04/25,Vitality,Falcons,16,13,Mirage,IEM Melbourne 2025,https://www.hltv.org/stats/matches/mapstatsid/198154/vitality-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+23/08/25,Vitality,The MongolZ,13,9,Dust2,Esports World Cup 2025,https://www.hltv.org/stats/matches/mapstatsid/205825/the-mongolz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+23/08/25,Vitality,The MongolZ,8,13,Mirage,Esports World Cup 2025,https://www.hltv.org/stats/matches/mapstatsid/205820/vitality-vs-the-mongolz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+23/08/25,Vitality,The MongolZ,7,13,Nuke,Esports World Cup 2025,https://www.hltv.org/stats/matches/mapstatsid/205827/the-mongolz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+24/01/25,Vitality,Eternal Fire,9,13,Anubis,BLAST Bounty 2025 Season 1 Finals,https://www.hltv.org/stats/matches/mapstatsid/190982/vitality-vs-eternal-fire?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+24/01/25,Vitality,Eternal Fire,11,13,Mirage,BLAST Bounty 2025 Season 1 Finals,https://www.hltv.org/stats/matches/mapstatsid/190987/eternal-fire-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+24/03/25,Vitality,MOUZ,13,11,Dust2,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/195950/mouz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+24/03/25,Vitality,MOUZ,13,11,Mirage,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/195948/vitality-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+24/05/25,Vitality,Falcons,13,7,Dust2,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200337/vitality-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+24/05/25,Vitality,Falcons,13,11,Inferno,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200340/vitality-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+24/05/25,Vitality,Falcons,6,13,Train,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200338/falcons-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+24/08/25,Vitality,Falcons,13,9,Inferno,Esports World Cup 2025,https://www.hltv.org/stats/matches/mapstatsid/205847/vitality-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+24/08/25,Vitality,Falcons,3,13,Nuke,Esports World Cup 2025,https://www.hltv.org/stats/matches/mapstatsid/205853/vitality-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+24/08/25,Vitality,Falcons,3,13,Train,Esports World Cup 2025,https://www.hltv.org/stats/matches/mapstatsid/205850/vitality-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+25/05/25,Vitality,MOUZ,13,11,Dust2,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200375/mouz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+25/05/25,Vitality,MOUZ,13,8,Inferno,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200379/mouz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+25/05/25,Vitality,MOUZ,13,9,Mirage,IEM Dallas 2025,https://www.hltv.org/stats/matches/mapstatsid/200377/vitality-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+26/04/25,Vitality,The MongolZ,13,3,Mirage,IEM Melbourne 2025,https://www.hltv.org/stats/matches/mapstatsid/198273/vitality-vs-the-mongolz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+26/04/25,Vitality,The MongolZ,13,3,Nuke,IEM Melbourne 2025,https://www.hltv.org/stats/matches/mapstatsid/198278/the-mongolz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+26/07/25,Vitality,Astralis,13,11,Nuke,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/203723/vitality-vs-astralis?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+26/07/25,Vitality,Astralis,13,8,Overpass,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/203727/astralis-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+27/04/25,Vitality,Falcons,12,16,Dust2,IEM Melbourne 2025,https://www.hltv.org/stats/matches/mapstatsid/198368/vitality-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+27/04/25,Vitality,Falcons,13,2,Inferno,IEM Melbourne 2025,https://www.hltv.org/stats/matches/mapstatsid/198360/falcons-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+27/04/25,Vitality,Falcons,10,13,Mirage,IEM Melbourne 2025,https://www.hltv.org/stats/matches/mapstatsid/198388/vitality-vs-falcons?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+27/04/25,Vitality,Falcons,22,20,Nuke,IEM Melbourne 2025,https://www.hltv.org/stats/matches/mapstatsid/198394/falcons-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+27/04/25,Vitality,Falcons,13,9,Train,IEM Melbourne 2025,https://www.hltv.org/stats/matches/mapstatsid/198378/falcons-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+27/07/25,Vitality,G2,13,5,Inferno,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/203810/vitality-vs-g2?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+27/07/25,Vitality,G2,13,10,Train,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/203820/g2-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+29/03/25,Vitality,Spirit,13,6,Anubis,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/196594/spirit-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+29/03/25,Vitality,Spirit,13,10,Mirage,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/196609/spirit-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+29/03/25,Vitality,Spirit,5,13,Nuke,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/196605/spirit-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+29/07/25,Vitality,The MongolZ,13,8,Inferno,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/203938/the-mongolz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+29/07/25,Vitality,The MongolZ,13,5,Mirage,IEM Cologne 2025,https://www.hltv.org/stats/matches/mapstatsid/203937/vitality-vs-the-mongolz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+30/03/25,Vitality,MOUZ,11,13,Dust2,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/196717/mouz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+30/03/25,Vitality,MOUZ,13,0,Inferno,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/196700/mouz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+30/03/25,Vitality,MOUZ,11,13,Mirage,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/196707/vitality-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Loss
+30/03/25,Vitality,MOUZ,13,7,Nuke,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/196723/vitality-vs-mouz?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+30/03/25,Vitality,MOUZ,13,7,Train,BLAST Open Lisbon 2025,https://www.hltv.org/stats/matches/mapstatsid/196726/mouz-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+30/04/25,Vitality,Wildcard,13,6,Dust2,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198599/wildcard-vs-vitality?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
+30/04/25,Vitality,Wildcard,13,7,Inferno,BLAST Rivals 2025 Season 1,https://www.hltv.org/stats/matches/mapstatsid/198591/vitality-vs-wildcard?startDate=2025-01-01&endDate=2025-12-31&matchType=BigEvents,Win
