@@ -1,0 +1,370 @@
+---
+title: "2025 CS2 Big Event Team Analysis"
+author: "Runcheng Lin, Zhiheng Wang, Jiawei Xi"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+## Project Overview
+
+CS2 is a fair 5v5 first-person shooter (FPS) game developed by Valve. This game has gained widespread recognition in esports. This report compares the 2025 Big Event map-level performance of five CS2 teams: Vitality, Falcons, Spirit, FURIA, and MOUZ. The main focus is map win rate, map-pool coverage, and an overall descriptive rating.
+
+## CS2 Performance Metrics
+
+This project uses several CS2 map-level metrics to compare team performance.
+
+| Metric | Meaning |
+|---|---|
+| Map | The CS2 map played in each record, such as Ancient, Nuke, Mirage, Inferno, or Anubis. |
+| Total Maps | The total number of maps played by a team. A larger sample size makes the result more reliable. |
+| Wins | The number of maps a team won. This counts individual maps, not full BO3 or BO5 matches. |
+| Losses | The number of maps a team lost. |
+| Win Rate | The percentage of maps won by a team, calculated as `Wins / Total Maps`. |
+| Map-specific Win Rate | The win rate of a team on a specific map. This helps identify strong maps and weak maps. |
+| Target Score | The number of rounds won by the target team on a map. |
+| Opponent Score | The number of rounds won by the opponent on the same map. |
+| Round Difference | The difference between the team's rounds and the opponent's rounds, calculated as `Target Score - Opponent Score`. |
+| Average Round Difference | The average round difference across maps. A higher value suggests stronger map control and dominance. |
+| Maps Played | The number of different maps a team has played. This reflects the width of the team's map pool. |
+| Map Pool Coverage | The percentage of the full map pool covered by a team. It shows whether a team has a wide or narrow map pool. |
+| Overall Score | A custom final rating used in this project. It combines win rate, map pool coverage, and sample size. |
+
+
+```{r original-cleaning, include=FALSE}
+library(tidyverse)
+
+hltv <- read_csv("hltv_2025_bigevents_matches_all.csv")
+
+target_teams <- c("Vitality", "Spirit", "Falcons", "FURIA", "MOUZ")
+
+target_matches <- hltv %>%
+  filter(Team1 %in% target_teams | Team2 %in% target_teams)
+
+team1_view <- target_matches %>%
+  filter(Team1 %in% target_teams) %>%
+  transmute(
+    Date,
+    TargetTeam = Team1,
+    Opponent = Team2,
+    TargetScore = Team1Score,
+    OpponentScore = Team2Score,
+    Map,
+    Event,
+    MatchURL
+  )
+
+team2_view <- target_matches %>%
+  filter(Team2 %in% target_teams) %>%
+  transmute(
+    Date,
+    TargetTeam = Team2,
+    Opponent = Team1,
+    TargetScore = Team2Score,
+    OpponentScore = Team1Score,
+    Map,
+    Event,
+    MatchURL
+  )
+
+target_team_maps <- bind_rows(team1_view, team2_view) %>%
+  mutate(
+    Result = case_when(
+      TargetScore > OpponentScore ~ "Win",
+      TargetScore < OpponentScore ~ "Loss",
+      TRUE ~ "Draw"
+    )
+  ) %>%
+  arrange(TargetTeam, Date, Map)
+
+write_csv(target_matches, "hltv_target_matches_raw.csv")
+write_csv(target_team_maps, "hltv_target_team_maps_clean.csv")
+
+```
+
+```{r prepare-visualization-data, include=FALSE}
+map_order  <- c("Ancient", "Anubis", "Dust2", "Inferno",
+                "Mirage", "Nuke", "Overpass", "Train")
+
+map_winrate <- target_team_maps %>%
+  group_by(TargetTeam, Map) %>%
+  summarise(
+    TotalMaps = n(),
+    Wins = sum(Result == "Win"),
+    Losses = sum(Result == "Loss"),
+    WinRate = Wins / TotalMaps,
+    .groups = "drop"
+  ) %>%
+  complete(
+    TargetTeam = target_teams,
+    Map = map_order,
+    fill = list(TotalMaps = 0, Wins = 0, Losses = 0)
+  ) %>%
+  mutate(
+    WinRate = if_else(TotalMaps == 0, NA_real_, WinRate),
+    WinRatePlot = replace_na(WinRate, 0)
+  )
+
+write_csv(map_winrate, "hltv2025.csv")
+```
+
+## Map Win Rate Comparison
+
+The radar charts show how each team performs across the active map pool. A wider and more balanced shape suggests stronger map-pool coverage.
+
+```{r original-radar-code, include=FALSE}
+library(tidyverse)
+library(scales)
+   
+# Load data
+map_winrate <- read_csv("hltv2025.csv")
+   
+# Quick check
+glimpse(map_winrate)
+
+
+# Map and team order
+map_order  <- c("Ancient", "Anubis", "Dust2", "Inferno",
+                "Mirage", "Nuke", "Overpass", "Train")
+team_order <- c("Vitality", "Falcons", "Spirit", "FURIA", "MOUZ")
+
+# Team colors
+team_colors <- c(
+  "Vitality" = "#FFD700",
+  "Falcons"  = "#2E8B57",
+  "Spirit"   = "#4169E1",
+  "FURIA"    = "#8B0000",
+  "MOUZ"     = "#FF4444"
+)
+
+# Fix coord_polar so the radar shape closes properly
+coord_radar <- function(theta = "x", start = 0, direction = 1) {
+  theta <- match.arg(theta, c("x", "y"))
+  r <- if (theta == "x") "y" else "x"
+  ggproto("CoordRadar", CoordPolar,
+          theta = theta, r = r, start = start,
+          direction = sign(direction),
+          is_linear = function() TRUE)
+}
+
+# Add labels for each point
+plot_data <- map_winrate %>%
+  mutate(
+    Map        = factor(Map, levels = map_order),
+    TargetTeam = factor(TargetTeam, levels = team_order),
+    label_text = ifelse(is.na(WinRate), "NA",
+                        paste0(round(WinRatePlot * 100), "%"))
+  )
+
+# Plot 1: all 5 teams on one chart
+p1 <- ggplot(plot_data,
+             aes(x = Map, y = WinRatePlot,
+                 group = TargetTeam, color = TargetTeam, fill = TargetTeam)) +
+  geom_polygon(alpha = 0.12, linewidth = 1.2) +
+  geom_point(size = 2.5) +
+  coord_radar() +
+  scale_y_continuous(
+    limits = c(0, 1),
+    breaks = c(0.2, 0.4, 0.6, 0.8, 1.0),
+    labels = percent_format(accuracy = 1)
+  ) +
+  scale_color_manual(values = team_colors) +
+  scale_fill_manual(values = team_colors) +
+  labs(
+    title    = "2025 Big Events: Map Win Rate Comparison",
+    subtitle = "Vitality, Falcons, Spirit, FURIA, MOUZ",
+    color    = "Team",
+    fill     = "Team",
+    x = NULL, y = NULL
+  ) +
+  theme_minimal(base_size = 12) +
+  theme(
+    plot.background   = element_rect(fill = "white", color = NA),
+    panel.background  = element_rect(fill = "white", color = NA),
+    panel.grid.major  = element_line(color = "#555555", linewidth = 0.4),
+    panel.grid.minor  = element_blank(),
+    axis.text.x       = element_text(color = "#333333", face = "bold", size = 12),
+    axis.text.y       = element_text(color = "#888888", size = 9),
+    plot.title        = element_text(color = "#222222", face = "bold",
+                                     size = 18, hjust = 0.5),
+    plot.subtitle     = element_text(color = "#666666", size = 12, hjust = 0.5),
+    legend.background = element_rect(fill = "white", color = NA),
+    legend.text       = element_text(color = "#333333", size = 11),
+    legend.title      = element_text(color = "#222222", face = "bold")
+  )
+
+print(p1)
+ggsave("radar_overlay.png", p1,
+       width = 11, height = 10, dpi = 300, bg = "white")
+          
+# Plot 2: one chart per team
+p2 <- ggplot(plot_data,
+             aes(x = Map, y = WinRatePlot,
+                 group = TargetTeam, color = TargetTeam, fill = TargetTeam)) +
+  geom_polygon(alpha = 0.35, linewidth = 1.3) +
+  geom_point(size = 2.5) +
+  geom_text(
+    aes(label = label_text, y = WinRatePlot + 0.10),
+    color = "white", size = 3, fontface = "bold"
+  ) +
+  coord_radar() +
+  scale_y_continuous(
+    limits = c(0, 1.2),
+    breaks = c(0.25, 0.5, 0.75, 1.0),
+    labels = percent_format(accuracy = 1)
+  ) +
+  scale_color_manual(values = team_colors) +
+  scale_fill_manual(values = team_colors) +
+  facet_wrap(~ TargetTeam, ncol = 3) +
+  labs(
+    title    = "2025 Big Events Map Win Rate by Team",
+    subtitle = "Vitality, Falcons, Spirit, FURIA, MOUZ",
+    x = NULL, y = NULL
+  ) +
+  theme_minimal(base_size = 12) +
+  theme(
+    plot.background   = element_rect(fill = "white", color = NA),
+    panel.background  = element_rect(fill = "white", color = NA),
+    panel.grid.major  = element_line(color = "#555555", linewidth = 0.4),
+    panel.grid.minor  = element_blank(),
+    strip.background  = element_rect(fill = "white", color = NA),
+    strip.text        = element_text(color = "#222222", face = "bold", size = 13),
+    axis.text.x       = element_text(color = "#333333", face = "bold", size = 10),
+    axis.text.y       = element_text(color = "#888888", size = 8),
+    plot.title        = element_text(color = "#222222", face = "bold",
+                                     size = 18, hjust = 0.5),
+    plot.subtitle     = element_text(color = "#666666", size = 12, hjust = 0.5),
+    legend.position   = "none",
+    panel.spacing     = unit(1.5, "lines")
+  )
+print(p2)
+ggsave("radar_facet.png", p2,
+       width = 14, height = 9, dpi = 300, bg = "white")          
+
+```
+
+![](radar_overlay.png)
+
+The chart below separates the five teams so that each team's map strengths and weak points are easier to read.
+
+![](radar_facet.png)
+
+## Map Pool Performance
+
+This heatmap shows each team's win rate on each map. Each label shows the win rate and the number of maps played. Cells marked as "No maps" mean that the team did not play that map in this dataset.
+
+```{r map-pool-heatmap, fig.width=9, fig.height=6}
+heatmap_data <- map_winrate %>%
+  mutate(
+    Map = factor(Map, levels = map_order),
+    TargetTeam = factor(TargetTeam, levels = rev(team_order)),
+    HeatmapWinRate = if_else(TotalMaps == 0, NA_real_, WinRate),
+    label_text = if_else(
+      TotalMaps == 0,
+      "No maps",
+      paste0(round(WinRate * 100), "%\n", TotalMaps, " maps")
+    )
+  )
+
+ggplot(heatmap_data, aes(x = Map, y = TargetTeam, fill = HeatmapWinRate)) +
+  geom_tile(color = "white", linewidth = 0.5) +
+  geom_text(aes(label = label_text), size = 3) +
+  scale_fill_gradient(
+    low = "#F2F2F2",
+    high = "#2E8B57",
+    limits = c(0, 1),
+    labels = scales::percent_format(accuracy = 1),
+    na.value = "#E6E6E6",
+    name = "Win Rate"
+  ) +
+  labs(
+    title = "Map Win Rate Heatmap",
+    subtitle = "Each cell shows map win rate and number of maps played",
+    x = "Map",
+    y = NULL
+  ) +
+  theme_minimal(base_size = 12) +
+  theme(
+    panel.grid = element_blank(),
+    axis.text.x = element_text(angle = 45, hjust = 1)
+  )
+```
+
+## Overall Team Rating
+
+The overall rating gives the most weight to direct winning performance, while still rewarding teams that played across a wider map pool and had a larger sample size.
+
+```{r team-rating}
+team_summary <- target_team_maps %>%
+  group_by(TargetTeam) %>%
+  summarise(
+    TotalMaps = n(),
+    Wins = sum(Result == "Win"),
+    Losses = sum(Result == "Loss"),
+    WinRate = Wins / TotalMaps,
+    AvgRoundDifference = mean(TargetScore - OpponentScore),
+    MapPoolCoverage = n_distinct(Map) / length(map_order),
+    .groups = "drop"
+  ) %>%
+  mutate(
+    SampleSizeScore = TotalMaps / max(TotalMaps),
+    OverallScore = 100 * (
+      0.70 * WinRate +
+      0.20 * MapPoolCoverage +
+      0.10 * SampleSizeScore
+    )
+  ) %>%
+  arrange(desc(OverallScore))
+
+team_summary %>%
+  mutate(
+    WinRate = scales::percent(WinRate, accuracy = 0.1),
+    MapPoolCoverage = scales::percent(MapPoolCoverage, accuracy = 0.1),
+    AvgRoundDifference = round(AvgRoundDifference, 2),
+    OverallScore = round(OverallScore, 2)
+  ) %>%
+  select(
+    TargetTeam, TotalMaps, Wins, Losses, WinRate,
+    AvgRoundDifference, MapPoolCoverage, OverallScore
+  ) %>%
+  knitr::kable(
+    caption = "Overall team summary and rating"
+  )
+```
+
+```{r rating-chart, fig.width=8, fig.height=5}
+ggplot(team_summary,
+       aes(x = reorder(TargetTeam, OverallScore),
+           y = OverallScore,
+           fill = TargetTeam)) +
+  geom_col(show.legend = FALSE) +
+  geom_text(aes(label = round(OverallScore, 1)), hjust = -0.15, size = 4) +
+  coord_flip() +
+  scale_fill_manual(values = team_colors) +
+  labs(
+    title = "Overall Team Rating",
+    subtitle = "Score = 70% win rate + 20% map-pool coverage + 10% sample size",
+    x = NULL,
+    y = "Overall Score"
+  ) +
+  ylim(0, max(team_summary$OverallScore) * 1.15) +
+  theme_minimal(base_size = 12)
+```
+
+## Written Summary
+
+According to the formula, Team Vitality has the highest score, which indicates that this team outperforms other teams in multiple dimensions. The radar chart provides detailed data on the win - rate of maps. These data can illustrate the performance of the teams on different maps. Therefore, when evaluating the scores of teams, it is necessary to comprehensively consider the advantageous and disadvantageous maps.
+
+## Limitations
+
+This rating system calculates the map win - rates of each team. However, data such as the strength of opponents, the context of the tournament, and lineup changes are not incorporated into the rating system. Therefore, this rating cannot completely reflect the strength of the teams.
+
+
+## Reference
+
+HLTV.org. (n.d.). Counter-Strike statistics database. Retrieved May 5, 2026, from HLTV.org.
